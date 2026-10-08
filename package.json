@@ -1,0 +1,13 @@
+{
+  "name": "karachi-bus-planner",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:data": "node scripts/build.mjs",
+    "test": "node --test test/",
+    "start": "node scripts/serve.mjs"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.4"
+  }
+}

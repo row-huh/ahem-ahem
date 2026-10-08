@@ -1,0 +1,1184 @@
+@type|@id|@lat|@lon|name|name:ur|name:en|highway|public_transport|amenity|railway|network|ref|route
+node|1609081126|24.8827634|67.1822471|Kala Board|||||bus_station||||
+node|1640164791|24.9009834|67.2009928||||bus_stop||||||
+node|1640164793|24.8935738|67.1949687||||bus_stop||||||
+node|1723656241|24.9187083|66.9614618|Chandni Chowk Bus Stop|||bus_stop||||||
+node|1723656295|24.9320878|66.9674523||||||bus_station||||
+node|1723656368|24.9328855|66.9674309|13D Last Bus stop|||bus_stop||||||
+node|1723656381|24.9326861|66.9682087||||||bus_station||||
+node|1853835690|24.9450763|67.1343075|"Sohni Chalet, Gulshan e Iqbal"|||bus_stop||||||
+node|2552020280|24.8710211|67.3578051|L-2 Market|||bus_stop|platform|||||
+node|2660837208|24.9451372|67.0802518|Block 20 Ancholi FB Area|||bus_stop||||||
+node|2663048827|24.9293814|67.0786255|FB Area Block 15|||bus_stop||||||
+node|2663052703|24.9395244|67.0710211|Gulberg Town|||bus_stop||||||
+node|2671305526|24.9320315|67.0632785|FB Area Block 10|||bus_stop||||||
+node|2671410091|24.9336046|67.0400476|North Nazimabad Block-F|||bus_stop||||||
+node|2671412466|24.9376712|67.0490007|North Nazimabad Block H|||bus_stop||||||
+node|2671412666|24.9451043|67.0569730|North Nazimabad Block M|||bus_stop||||||
+node|2671423515|24.9501856|67.0775694|FB Area Block 19|||bus_stop||||||
+node|2962964834|24.8833840|67.1922803|Muhabbat Nagar|||||bus_station||||
+node|3281613774|24.9085105|67.0562959|غریب آباد|غریب آباد|Gharibabad|bus_stop|platform|||||
+node|3418586768|24.8170248|67.1079526|Korangi Crossing|||bus_stop||||||
+node|3523382867|24.8863153|67.1261891|ڈرگ روڈ|ڈرگ روڈ|Drigh Road||station||station||DID|
+node|3523446756|24.8672954|67.0827609|Baloch Colony Stop|||bus_stop||||||
+node|3525960472|24.8570650|67.0331655|Lucky Star Chowrangi|||bus_stop||||||
+node|3525960492|24.9186758|67.0977798||||bus_stop||||||
+node|3846578385|24.9242734|67.0314958|Edhi Interchange|||bus_stop||||||
+node|3846587356|24.9555905|67.0468710|Babar Manzil Bus Stop|||bus_stop||||||
+node|4104332771|24.8508469|67.2118950|لانڈھی ریلوے اسٹیشن|لانڈھی ریلوے اسٹیشن|Landhi||station||station||LND|
+node|4104333346|24.8861183|67.1440848|Airport||||station||station|||
+node|4299624393|24.8662738|67.3001756|Port Qasim Mor||||station|bus_station||||
+node|4299693694|24.8790242|67.1882644|Malir 15|||||bus_station||||
+node|4299884790|24.8846985|67.1753000|Malir Cant|||||bus_station||||
+node|4299888089|24.8600198|67.3361869|Steel Town Mor|||||bus_station||||
+node|4299888789|24.8672085|67.3510334|Bata Mor|||||bus_station||||
+node|4336501164|24.9591186|67.0492983|North Nazimabad Block T|||bus_stop||||||
+node|4336539538|24.9406099|67.0336144|Lal Khoti Bus Stop|||bus_stop||||||
+node|4340667618|24.9503797|67.0445979|North Nazimabad Block I|||bus_stop||||||
+node|4340668047|24.9370120|67.0299165|Pahaar Ganj Chowrangi|||bus_stop||||||
+node|4366233701|24.9488260|67.0909511|Al Asif Bus Stop|||bus_stop||||||
+node|4386978493|24.7997768|67.0648552|||kp house|bus_stop||||||
+node|4419575568|24.9391381|67.1560824|Safoora Chowk|||bus_stop||||||
+node|4465114756|24.8374899|67.2983022|Gamalux Mor|||bus_stop||||||
+node|4629652291|24.9175041|67.1309418||||||bus_station||||
+node|4674618397|24.8823269|67.1823277|Kala Board Stop||Kala Board Stop|bus_stop||||||
+node|4686640592|24.9178288|67.0970932|Data Coach||Data Coach|bus_stop||||||
+node|4686680589|24.9436518|67.0845127|data coach||data coach|bus_stop||||||
+node|4686691293|24.9432204|67.0839172|super hassan zai||super hassan zai|bus_stop||||||
+node|4686691890|24.9176479|67.0968555|star line coach||star line coach|bus_stop||||||
+node|4686740589|24.9180089|67.0973645|Gulistan Coach||Gulistan Coach|bus_stop||||||
+node|4686741089|24.8108614|67.0309366|gulistan coach||gulistan coach|bus_stop||||||
+node|4686970397|24.9130834|67.0284192|A3 bus|||bus_stop||||||
+node|4688016191|24.9238801|67.0919946|A3 bus||A3 bus|bus_stop||||||
+node|4690366189|24.9450938|67.0642706|Green House|||bus_stop||||||
+node|4698964290|24.9715885|67.0531333|Disco More||Disco More|bus_stop||||||
+node|4699193192|24.9491989|67.0915277|4L bus||4L bus|bus_stop||||||
+node|4699222492|24.9654619|67.1107385|"A3, A25 and D7 couches"|||bus_stop||||||
+node|4733232721|24.9589861|67.0939146|Al Asif bus stand||Al Asif Bus Stand|bus_stop||||||
+node|4735339522|24.8431332|67.0391451|چھونی اسٹیشن کراچی|چھونی اسٹیشن کراچی|Cantt Station Karachi|bus_stop|platform|||||
+node|4735339523|24.8894379|66.9830868|Sher Shah bus stop||Sher Shah bus stop|bus_stop||||||
+node|4758115387|24.9087926|67.1081814|Daewoo Cargo Service|||||bus_station||||
+node|4758254637|24.8761602|67.1010595|Karsaz Market Bus Stop|||bus_stop||||||
+node|4758366422|24.8543849|67.0851634|Gujjar Chowk|||bus_stop||||||
+node|4762522245|24.9152110|67.0940869|Sir Syed Stop|||bus_stop||||||
+node|4762522253|24.9113982|67.0886577|Urdu University Stop|||bus_stop||||||
+node|4762593144|24.9130278|67.0869993|Nipa Station Karachi Circular Railway|||||bus_station||||
+node|4764575625|24.9033587|67.1819318|Model Morr Buss Stop|||bus_stop||||||
+node|4767455639|24.9007805|67.1939630|Model Colony Railway Station|||bus_stop||||||
+node|4767455685|24.9104807|67.2245414|National coach last stop|||bus_stop||||||
+node|4767455719|24.8952511|67.2123496|7 Star Bus Stop|||bus_stop|platform|||||
+node|4767542707|24.8790255|67.1985074|Babul Chowk Bus Stop|||bus_stop||||||
+node|4767647537|24.9230639|67.2018331|College Stop|||bus_stop||||||
+node|4767647540|24.9263433|67.2032277|Bus Stop|||bus_stop||||||
+node|4767689982|24.9308151|67.2035422|Fauji Road|||bus_stop||||Fauji Rd / Malir Cantt. Rd||
+node|4767764651|24.9574761|67.2037920|Metro Bus Station|||||bus_station||||
+node|4773096321|24.9307522|67.1187895|KU Stop|||bus_stop||||||
+node|4773096327|24.9290011|67.1148602|NED Stop Noman Jadoon Rd|||bus_stop|platform|||||
+node|4774672041|24.8847573|67.0570540|Jail Chowrangi Stop|||bus_stop||||||
+node|4775097117|24.9011857|67.0775722|Gulshan e Iqbal Block 15|||bus_stop||||||
+node|4775097120|24.9060748|67.0859899|Gulshan-e-Iqbal Block 8|||bus_stop||||||
+node|4775097521|24.9069829|67.0943043|Gulshan e Iqbal Block 19|||bus_stop||||||
+node|4775097531|24.9238816|67.0822034|Gulshan-e-Iqbal Block 1|||bus_stop||||||
+node|4775097541|24.9254412|67.0658496|FB Area Block 7|||bus_stop||||||
+node|4775097542|24.9183132|67.0662549|FB Area Block 8|||bus_stop||||||
+node|4775171570|24.9774247|67.1406141|Gulzar-e-Hijri|||bus_stop||||||
+node|4775171582|24.9420716|67.0415184|North Nazimabad Block D|||bus_stop||||||
+node|4775171583|24.9370063|67.0356532|North Nazimabad Block C|||bus_stop||||||
+node|4775171587|24.9603973|67.0727985|Buffer Zone Stop|||bus_stop|platform|||||
+node|4776898508|24.8282033|67.1119669|Allahwala Town|||bus_stop||||||
+node|4776898516|24.8056133|67.1496217|Francis Town|||bus_stop||||||
+node|4776910204|24.8891859|67.1935454|Saudabad|||bus_stop||||||
+node|4777267206|24.9945434|67.0597928|New Karachi Sector B 3|||bus_stop||||||
+node|4781144376|24.9297114|67.1437125|Gulistan e Johar Block 5|||bus_stop||||||
+node|4781144377|24.9322773|67.1468836|Gulistan e Johar Block 6|||bus_stop||||||
+node|4781144381|24.9204285|67.1287228|Gulistan e Johar Block 14|||bus_stop||||||
+node|4781144384|24.9117055|67.1211238|Gulistan-e-Johar Block 17|||bus_stop||||||
+node|4782936322|24.8721129|67.0458898|PECHS Block 1 Jamshed Town|||bus_stop||||||
+node|4783144464|24.8559008|67.2584865|Bhains Colony Moor Bus Stop|||bus_stop||||||
+node|4783144470|24.8606359|67.2772067|Chaukkhandi Bus Stop|||bus_stop|platform|||||
+node|4783144472|24.8641822|67.2926536|Razzakabad Bus Stop|||bus_stop|platform|||||
+node|4786563395|24.8294190|67.0807680|Qayyumabad||||station|bus_station||||
+node|4949746314|24.9595388|67.0500247|Qalandaria Chowk|||bus_stop||||||
+node|4977489221|24.9405696|67.2065364|Mes bus stop||Mes bus stop|bus_stop||||||
+node|5055319874|24.9195248|67.1396383|Gulistan e Johar Block 11|||bus_stop||||||
+node|5066143335|24.9215078|67.0214054|Chandni Chowk|||||bus_station||||
+node|5066898157|24.9982960|67.1308368|Hadiabad Society|||bus_stop|platform|||||
+node|5069418971|25.0079789|67.1238097|"PAEC Cooperative Housing Society, Sector 52 A Scheme 33"|||bus_stop||||||
+node|5071224379|25.0057573|67.0655105|KTC Bus Terminal|||||bus_station||||
+node|5079310725|25.0357245|67.1017906|Lyari Bus Terminal|||||bus_station||||
+node|5084285056|24.9599293|67.0621918|Shadman Bus Stop|||bus_stop||||||
+node|5103072130|25.0035803|66.9724808|CNG Bus Terminal|||||bus_station||||
+node|5110051339|24.8790779|67.0203642|Fawara Chowk|||bus_stop||||||
+node|5110051340|24.8873763|67.0329181|Lasbella Chowk|||bus_stop||||||
+node|5110051342|24.8770735|67.0128387|Dhobi Ghat Chowk|||bus_stop||||||
+node|5110051343|24.8874908|67.0778459|Selani Chowk|||bus_stop||||||
+node|5110071543|24.8374636|67.0739370|Pindi Chowk|||bus_stop||||||
+node|5110071545|24.8707292|67.0126074|Football Chowk|||bus_stop||||||
+node|5112904032|24.9275077|67.0638946||||bus_stop||||||
+node|5112904033|24.9368945|67.0757105|Water Pump Chorangi|||bus_stop||||||
+node|5112904034|24.9435740|67.0843947|Sorab Goth Chorangi|||bus_stop||||||
+node|5112904045|24.9142130|67.0574513|Hussainabad Chorangi|||bus_stop||||||
+node|5112904046|24.9193568|67.0636074|Cafe Noori Chowak|||bus_stop||||||
+node|5112904047|24.9088021|67.0564319|Gharibabd Chorangi|||bus_stop||||||
+node|5112921417|24.9008944|67.0725878|Hassan Square Chorangi|||bus_stop||||||
+node|5112921418|24.8923586|67.0827896|Karsaz Chowrangi|||bus_stop||||||
+node|5112921419|24.9179068|67.0966529|Nipa Chorangi|||bus_stop||||||
+node|5112944879|24.8670592|67.0280344|7th day Bus Stop|||bus_stop||||||
+node|5112958729|25.0180939|67.0635958|KDA Chowrangi Surjani|||bus_stop||||||
+node|5113010208|24.9350003|67.1052731|Maskan Chowrangi|||bus_stop||||||
+node|5113016890|24.9291765|67.0974893|Disco Bakery Chowrangi|||bus_stop||||||
+node|5113098157|24.8972447|66.9875776|Pakistan Cable Chowrangi|||bus_stop||||||
+node|5122919862|24.8787986|66.9954231|میراں ناکہ|میراں ناکہ|Miran Naka|bus_stop|platform|||||
+node|5123980564|24.8871100|67.1501422|Colony Gate Stop|||bus_stop||||||
+node|5127796857|24.8269468|67.0346214|Art Chowk|||bus_stop|platform|||||
+node|5127808682|24.9223543|67.1026972|Kala borad Bus Stop|||bus_stop||||||
+node|5130897939|24.8370185|67.3068555|Toyota Mor|||bus_stop||||||
+node|5133250067|24.8479352|66.9953696|Tower Bus Stop|||bus_stop||||||
+node|5134894134|24.9248257|67.0315070|AO Tower Bridge Belt|||bus_stop||||||
+node|5135380078|24.9145313|67.0574734|Okhai Bus Stop|||bus_stop||||||
+node|5137634773|24.9584672|67.0457794|AL Qutub Bus Stand|||bus_stop||||||
+node|5137701221|24.9018401|67.0305336|Rizvia Chowrangi|||bus_stop||||||
+node|5140969347|24.9299929|67.0197315|Banaras Bus Stop BANARAS|||bus_stop||||||
+node|5142915729|24.8293911|67.1693213|kORANGI 6|||bus_stop||||||
+node|5143340845|24.8369926|67.2357798|Kala Pani|||bus_stop||||||
+node|5143340851|24.8413445|67.2261336|M.Metro Bus|||bus_stop|platform|||||
+node|5144678690|24.9012000|67.0729560|Hussan Square Bus Stop|||bus_stop||||||
+node|5144939660|24.8121611|67.1171552|CBM|||bus_stop|platform|||||
+node|5144995462|24.8458800|67.0873347|Manzoor Colony Bus Stop|||bus_stop||||||
+node|5144995466|24.8503986|67.0892443|Eid Gah Chowk Bus Stop|||bus_stop||||||
+node|5145241861|24.9081853|67.0620834|Baloch Hotel Bus Stop|||bus_stop||||||
+node|5147084760|24.9323611|67.0706132|Naseerabad Bus station|||bus_stop||||||
+node|5149379438|24.8449575|67.0380612|Manthar Coach Ada||||station|bus_station||||
+node|5153640514|24.8376147|67.2937625|Kissan Mor|||bus_stop||||||
+node|5153772272|24.9334981|67.0793629|FB Area Block 16|||bus_stop||||||
+node|5153772274|24.9142211|67.0575956|FB Area Block 2|||bus_stop||||||
+node|5153772278|24.9379296|67.0657120|FB Area Block 12|||bus_stop||||||
+node|5153772279|24.9420599|67.0738979|FB Area Block 17|||bus_stop||||||
+node|5153772280|24.9444237|67.0689690|FB Area Block 18|||bus_stop||||||
+node|5153772281|24.9450010|67.0747343|FB Area Block 19|||bus_stop||||||
+node|5153772282|24.9444720|67.0774796|FB Area Block 20|||bus_stop||||||
+node|5153772283|24.9512594|67.0806938|FB Area Block 22|||bus_stop||||||
+node|5153772284|24.9304985|67.0818706|FB Area Block 15|||bus_stop||||||
+node|5153772285|24.9284192|67.0749633|FB Area Block 14|||bus_stop||||||
+node|5153772286|24.9357186|67.0673742|FB Area Block 13|||bus_stop||||||
+node|5153772287|24.9227766|67.0739124|FB Area Block 9|||bus_stop||||||
+node|5153772288|24.9217521|67.0669470|FB Area Block 8|||bus_stop||||||
+node|5153772289|24.9270481|67.0658611|FB Area Block 7|||bus_stop||||||
+node|5153772290|24.9298143|67.0544199|FB Area Block 5|||bus_stop||||||
+node|5153772291|24.9404995|67.0769568|FB Area Block 17|||bus_stop||||||
+node|5153772292|24.9359342|67.0870697|FB Area Block 21 Industrial|||bus_stop||||||
+node|5156526986|24.8346894|67.1096211|Korangi Sector 23|||bus_stop||||||
+node|5156526987|24.8397581|67.1165027|Korangi Sector 15|||bus_stop||||||
+node|5156526989|24.8380839|67.1265925|Korangi Sector 24|||bus_stop||||||
+node|5156526990|24.8210854|67.1436968|Korangi No 2 1/2|||bus_stop||||||
+node|5156526991|24.8209171|67.1430661|Korangi Sector 33 A|||bus_stop||||||
+node|5156526992|24.8415631|67.1270230|Korangi Sector 16|||bus_stop||||||
+node|5156526993|24.8433578|67.1398128|Korangi Sector 17|||bus_stop||||||
+node|5156526994|24.8442974|67.1438873|Korangi Sector 18|||bus_stop||||||
+node|5156526996|24.8456520|67.1523938|Landhi Sector 19|||bus_stop||||||
+node|5156526997|24.8428739|67.1496746|Korangi Sector 27|||bus_stop||||||
+node|5156526998|24.8398924|67.1438723|Korangi Sector 26|||bus_stop||||||
+node|5156526999|24.8471276|67.1704782|Landhi Sector 28|||bus_stop||||||
+node|5156527000|24.8492700|67.1704097|Landhi Sector 20|||bus_stop||||||
+node|5156527002|24.8333203|67.1518779|Korangi Sector 35 A|||bus_stop||||||
+node|5156527003|24.8248631|67.1455899|Korangi Sector 33 B|||bus_stop||||||
+node|5156527004|24.8289494|67.1416975|Korangi Sector 33 C|||bus_stop||||||
+node|5156527005|24.8333706|67.1408772|Korangi Sector 34 1|||bus_stop||||||
+node|5156527008|24.8327817|67.1373939|Korangi Sector 33 F|||bus_stop||||||
+node|5156527011|24.8280464|67.1336539|Korangi Sector 32 C|||bus_stop||||||
+node|5156527013|24.8259096|67.1066858|Allahwala Town Sector A|||bus_stop||||||
+node|5156527014|24.8123593|67.1139675|Bhittai Colony|||bus_stop||||||
+node|5156527016|24.8205503|67.1126620|دارالسلام سوسائٹی|دارالسلام سوسائٹی|Darussalam Society|bus_stop|platform|||||
+node|5156529421|24.8142288|67.1386969|Gilgit Colony|||bus_stop||||||
+node|5156529425|24.8475260|67.1446351|Awami Colony 2|||bus_stop||||||
+node|5156529427|24.8466088|67.1368567|Korangi Sector 8 B|||bus_stop||||||
+node|5156529428|24.8460362|67.1336522|Korangi Sector 7 A|||bus_stop||||||
+node|5156529429|24.8548433|67.1228145|Korangi Sector 7 A|||bus_stop||||||
+node|5156529431|24.8614294|67.1561719|Gulshan e Millat|||bus_stop||||||
+node|5156529433|24.8574139|67.1513405|Bagh e Korangi|||bus_stop||||||
+node|5156529434|24.8194455|67.1678938|Landhi Sector 51 A|||bus_stop||||||
+node|5156529435|24.8207501|67.1768891|Tayyaba Masjid|||bus_stop||||||
+node|5156529436|24.8205018|67.1767925|Landhi Sector 51B|||bus_stop||||||
+node|5156598704|24.8219050|67.1819118|Landhi Sector 51 C|||bus_stop||||||
+node|5156598705|24.8269693|67.1774587|Landhi Sector 44 C|||bus_stop||||||
+node|5156598706|24.8125258|67.1735139|Landhi Sector 51 D|||bus_stop||||||
+node|5156598709|24.8182905|67.1894018|Ilyas Goth|||bus_stop||||||
+node|5156598710|24.8321684|67.1794827|Landhi Sector 36 E|||bus_stop||||||
+node|5156598711|24.8341825|67.1815490|Landhi Sector 5 A|||bus_stop||||||
+node|5156598712|24.8362629|67.1806247|Landhi Sector 36 F|||bus_stop||||||
+node|5156598713|24.8382799|67.1925348|Landhi Sector 37 C|||bus_stop||||||
+node|5156598716|24.8424487|67.1811961|Zamanabad|||bus_stop||||||
+node|5156598718|24.8433561|67.1788100|Landhi Sector 36 B|||bus_stop||||||
+node|5156598922|24.8507705|67.1813133|Herbion Chowrangi|||bus_stop||||||
+node|5156598924|24.8566331|67.1950077|Jamal Goth Mansehra Colony Landhi Karachi|||bus_stop||||||
+node|5156598926|24.8588872|67.1988239|فیوچر کالونی|فیوچر کالونی|Future Colony|bus_stop|platform|||||
+node|5156598930|24.8256515|67.2249258|New Muzaffarabad Colony Landhi|||bus_stop||||||
+node|5156598936|24.8301602|67.2445404|500 Quarters Landhi|||bus_stop||||||
+node|5156598937|24.8361823|67.2450382|Old Flats|||bus_stop||||||
+node|5156598938|24.8364365|67.2560554|Goth Jumo Landhi|||bus_stop||||||
+node|5156598939|24.8353733|67.2616008|Commercial Area Landhi|||bus_stop||||||
+node|5156598940|24.8433800|67.1664787|Barmi Colony Korangi|||bus_stop||||||
+node|5156794545|24.8726410|67.1303798|Shah Faisal Colony Block 5|||bus_stop||||||
+node|5156794546|24.8777057|67.1389132|Shah Faisal Colony Block 4|||bus_stop||||||
+node|5156794549|24.8807985|67.1340937|Sadat Colony Shah Faisal|||bus_stop||||||
+node|5156794550|24.8841184|67.1364705|Natha Khan Goth Shah Faisal|||bus_stop||||||
+node|5156794552|24.8820227|67.1458473|Shah Faisal Colony Block 2|||bus_stop||||||
+node|5156794556|24.8784194|67.1546478|Shah Faisal Reta Plot Block 3|||bus_stop||||||
+node|5156794561|24.8729151|67.1712944|Millat Town Bus Stop|||bus_stop|platform|||||
+node|5156794570|24.8814266|67.1599571|Green Town Shah Faisal|||bus_stop||||||
+node|5156794571|24.8850371|67.1589640|Asifabad Green Town|||bus_stop||||||
+node|5156794583|24.8738440|67.2064958|Bawan Shah Bukhari Garden|||bus_stop||||||
+node|5156794594|24.9092341|67.2227335|Khokhrapar Area A|||bus_stop||||||
+node|5157033865|24.9251707|67.0383019|North Nazimabad Block B|||bus_stop||||||
+node|5157033868|24.9515684|67.0605033|North Nazimabad Block 9|||bus_stop||||||
+node|5157033869|24.9541434|67.0586311|Bufferzone Sector 15 A 1|||bus_stop||||||
+node|5157033871|24.9477915|67.0515083|North Nazimabad Block I|||bus_stop||||||
+node|5157033872|24.9278818|67.0267619|Allama Iqbal Town Nazimabad|||bus_stop||||||
+node|5157033873|24.9234679|67.0201304|Paposh Nagar Nazimabad|||bus_stop||||||
+node|5157033875|24.9228069|67.0276012|Nazimabad Block 5 C|||bus_stop||||||
+node|5157033876|24.9233448|67.0238742|Nazimabad Block 5|||bus_stop||||||
+node|5157033877|24.9243241|67.0258064|Nazimabad Block 5 B|||bus_stop||||||
+node|5157033879|24.9197776|67.0229910|Nazimabad Block E|||bus_stop||||||
+node|5157033880|24.9151050|67.0274155|Nazimabad Block 3|||bus_stop||||||
+node|5157033881|24.9064572|67.0243853|Nazimabad Block 1|||bus_stop||||||
+node|5157033883|24.9026488|67.0313323|Nazimabad Block 2|||bus_stop||||||
+node|5157033885|24.9156696|67.0356918|Nazimabad Block 4|||bus_stop||||||
+node|5157033890|24.9088666|67.0572828|غریب آباد|غریب آباد|Gharibabad|bus_stop|platform|||||
+node|5157033892|24.9148030|67.0579425|Hussainabad|||bus_stop||||||
+node|5157033893|24.9212646|67.0676615|Azizabad|||bus_stop||||||
+node|5157033897|24.9447754|67.0795328|Ancholi|||bus_stop||||||
+node|5157033898|24.9396261|67.0749989|Samanabad|||bus_stop||||||
+node|5157033900|24.9378969|67.0604822|Qabail Colony|||bus_stop||||||
+node|5157033901|24.9447964|67.0657815|Peoples Colony|||bus_stop||||||
+node|5158643453|24.9649416|67.0614003|Shadman Town Sector 14 B|||bus_stop||||||
+node|5158643455|24.9645035|67.0526421|Shadman Town Sector 7D 4|||bus_stop||||||
+node|5158643457|24.9662302|67.0666023|North Karachi Sector 11 C 1|||bus_stop||||||
+node|5158643459|24.9701789|67.0581855|Sir Syed Town|||bus_stop||||||
+node|5158643460|24.9693189|67.0543345|North Karachi Sector 10|||bus_stop||||||
+node|5158643467|24.9816738|67.0535941|North Karachi Sector 8|||bus_stop||||||
+node|5158643468|24.9819880|67.0576640|North Karachi Sector 11 A|||bus_stop||||||
+node|5158643470|24.9826036|67.0679825|North Karachi Sector 11 L|||bus_stop||||||
+node|5158643478|24.9732683|67.0715714|North Karachi Sector 11 J|||bus_stop||||||
+node|5158643480|24.9759603|67.0668403|North Karachi Sector 11 I|||bus_stop||||||
+node|5158643482|24.9676407|67.0823622|Godhra Colony|||bus_stop||||||
+node|5158643486|24.9874782|67.0563431|New Karachi Sector 5 C 3|||bus_stop||||||
+node|5158643487|24.9883520|67.0627210|North Karachi Sector 5 C 4|||bus_stop||||||
+node|5158643489|24.9906012|67.0566735|North Karachi Sector 5 C 1|||bus_stop||||||
+node|5158643490|24.9884769|67.0534716|North Karachi Sector 4|||bus_stop||||||
+node|5158643491|24.9955557|67.0527395|North Karachi Sector 3|||bus_stop||||||
+node|5158643492|25.0024748|67.0523143|North Karachi Sector 2|||bus_stop||||||
+node|5158643493|25.0010144|67.0558794|New Karachi Sector 5 A 3|||bus_stop||||||
+node|5158643496|24.9965177|67.0660472|New Karachi Sector 5 I|||bus_stop||||||
+node|5158898248|25.0119209|67.1267500|Gulshan e Maymar Sector Z 1|||bus_stop||||||
+node|5158898249|25.0131618|67.1247089|Gulshan e Maymar Sector Z 2|||bus_stop||||||
+node|5158898250|25.0150425|67.1258167|Gulshan e Maymar Sector Z|||bus_stop||||||
+node|5158898251|25.0152519|67.1206947|Gulshan e Maymar Sector Z 3|||bus_stop||||||
+node|5158898252|25.0193125|67.1256990|Gulshan e Maymar Sector Z 4|||bus_stop||||||
+node|5158898253|25.0167223|67.1263728|Gulshan e Maymar Sector Z 5|||bus_stop||||||
+node|5158898254|25.0135342|67.1289372|Gulshan e Maymar Sector Z 6|||bus_stop||||||
+node|5158898255|25.0141375|67.1320672|Gulshan e Maymar Sector ZA|||bus_stop||||||
+node|5158898257|25.0149816|67.1166512|Gulshan e Maymar Sector U|||bus_stop||||||
+node|5158898258|25.0122821|67.1173494|Gulshan e Maymar Sector U 3|||bus_stop||||||
+node|5158898259|25.0151336|67.1143593|Gulshan e Maymar  Sector U 2|||bus_stop||||||
+node|5158898260|25.0180280|67.1175175|Gulshan e Maymar Sector V 4|||bus_stop||||||
+node|5158898261|25.0184281|67.1201243|Gulshan e Maymar Sector V|||bus_stop||||||
+node|5158898262|25.0179651|67.1344403|Gulshan e Maymar Sector W|||bus_stop||||||
+node|5158898263|25.0191064|67.1304356|Gulshan e Maymar Sector X 1|||bus_stop||||||
+node|5158898264|25.0212576|67.1280311|Gulshan e Maymar Sector X 2|||bus_stop||||||
+node|5158898265|25.0237369|67.1263279|Gulshan e Maymar Sector X|||bus_stop||||||
+node|5158898266|25.0162867|67.1313892|Gulshan e Maymar Sector W 1|||bus_stop||||||
+node|5158898267|25.0181123|67.1425309|Gulshan e Maymar Sector S|||bus_stop||||||
+node|5158898268|25.0207628|67.1375409|Gulshan e Maymar Sector T I|||bus_stop||||||
+node|5158898269|25.0256456|67.1390211|Gulshan e Maymar Sector T 3|||bus_stop||||||
+node|5158898270|25.0225584|67.1391642|Gulshan e Maymar Sector T|||bus_stop||||||
+node|5158898271|25.0270154|67.1320109|Gulshan e Maymar Sector Y|||bus_stop||||||
+node|5158898272|25.0258891|67.1328514|Gulshan e Maymar Sector Y 1|||bus_stop||||||
+node|5158898273|25.0290876|67.1281115|Gulshan e Maymar Sector Y 2|||bus_stop||||||
+node|5158898274|25.0287057|67.1325341|Gulshan e Maymar Sector Y 3|||bus_stop||||||
+node|5158898275|25.0227739|67.1357786|Gulshan e Maymar Sector T 2|||bus_stop||||||
+node|5158898276|25.0224169|67.1427278|Gulshan e Maymar Sector T 4|||bus_stop||||||
+node|5160267903|25.0295143|67.1377599|Gulshan e Maymar Sector R|||bus_stop||||||
+node|5160267905|25.0267065|67.1359195|Gulshan e Maymar Sector R 1|||bus_stop||||||
+node|5160267907|25.0295032|67.1338643|Gulshan e Maymar Sector R 5|||bus_stop||||||
+node|5160267908|25.0314922|67.1352095|Gulshan e Maymar Sector R 4|||bus_stop||||||
+node|5160267909|25.0314841|67.1422136|Gulshan e Maymar  Sector Q|||bus_stop||||||
+node|5160267910|25.0279093|67.1480993|Gulshan e Maymar Sector Q-4|||bus_stop||||||
+node|5160267912|25.0309693|67.1402571|Gulshan e Maymar Sector R 3|||bus_stop||||||
+node|5160354664|25.0145911|67.0621940|Surjani Sector 5 D|||bus_stop||||||
+node|5160354668|25.0164210|67.0620272|Maymarabad Surjani|||bus_stop||||||
+node|5160354697|25.0190854|67.0654627|Surjani Sector 4 A|||bus_stop||||||
+node|5160354705|25.0259064|67.0717405|Abdullah More|||bus_stop||||||
+node|5160354707|25.0260095|67.0715314|Surjani Sector 7 C|||bus_stop||||||
+node|5160414131|24.8728762|67.0092849|Jagdal Chowk|||||bus_station||||
+node|5160730943|24.8717600|67.0797974|Baloch Colony|||bus_stop||||||
+node|5162475012|24.8735705|67.0807787|Al Hamra Society|||bus_stop||||||
+node|5162475013|24.8733983|67.0846815|Kathiwar Society|||bus_stop||||||
+node|5162475014|24.8706578|67.0846845|Banglore Town|||bus_stop||||||
+node|5162475019|24.8510997|67.0583798|Chabesar Goth|||bus_stop||||||
+node|5162670360|24.8579202|66.9874707|Nayabad|||bus_stop||||||
+node|5162670361|24.8585990|66.9982357|موسی لین|موسی لین|Moosa Lane|bus_stop|platform|||||
+node|5162670362|24.8604821|66.9953178|Baghdadi|||bus_stop||||||
+node|5162670364|24.8694172|67.0036481|Kalakot|||bus_stop||||||
+node|5162670368|24.8719442|67.0081440|Nawalane|||bus_stop||||||
+node|5162828833|24.8660561|66.9843377|Daryabad|||bus_stop||||||
+node|5162828835|24.8646643|66.9914705|Shah Baig Line|||bus_stop||||||
+node|5164599146|24.8446008|67.3394606|بن قاسم ریلوے اسٹیشن||Bin Qasim||station||station||BQM|
+node|5172982162|24.8844209|67.1601631|Green Town|||bus_stop||||||
+node|5176470442|24.9936266|66.9001858|Tapal Energy Power House|||bus_stop|platform|||||
+node|5179982955|24.9545353|66.9960593|Sector 15 D|||bus_stop|platform|||||
+node|5179982957|24.9523867|67.0014919|Sector 14 B|||bus_stop||||||
+node|5179982960|24.9565228|66.9957499|Sector 14 E|||bus_stop||||||
+node|5179982961|24.9615127|66.9947748|Sector 14 G|||bus_stop||||||
+node|5179982964|24.9399392|66.9851009|Muhammad Nagar|||bus_stop||||||
+node|5179982965|24.9396936|66.9842598|Orangi Town Bus Stop|||bus_stop|platform|||||
+node|5179982973|24.9396241|67.0024352|Sector 5|||bus_stop||||||
+node|5183476686|24.9424073|67.0089472|Sector 7 B|||bus_stop|platform|||||
+node|5183476689|24.9403575|67.0126254|Sector 1 A|||bus_stop||||||
+node|5183476690|24.9392346|67.0167835|Sector 1 C|||bus_stop||||||
+node|5188687716|24.8827770|67.1357614|Natha Khan Goth|||bus_stop||||||
+node|5188687717|24.8796951|67.1335619|Pak Sadat Colony|||bus_stop||||||
+node|5188688621|24.9542859|67.1176509|Gulshan e Kaneez Fatima|||bus_stop||||||
+node|5190148924|24.9605668|66.9840721|Dabba More|||bus_stop||||||
+node|5196022432|24.9491313|67.0527188|2K Bus Stop|||||bus_station||||
+node|5214596422|24.8655744|67.0290811|Mithiani Bus|||bus_stop||||||
+node|5217715771|24.8551282|67.2117445|Quaidabad|||bus_stop||||||
+node|5217715786|24.8595567|67.2728186|Chowkundi More Bus Stop|||bus_stop|platform|||||
+node|5217715799|24.8591202|67.3403147|Naseerabad More|||bus_stop||||||
+node|5217715803|24.8686337|67.3735357|Muslim Main Bus Stop|||bus_stop||||||
+node|5223039124|24.9456772|67.0382251|Aslam Market R Block Bus Stop|||bus_stop||||||
+node|5223039136|24.9392946|67.1561264|Safoora Goth|||bus_stop||||||
+node|5226556624|24.8839292|67.1160275|PAF Bus Stop|||bus_stop||||||
+node|5226556625|24.8873999|67.1304628|آرمی گیٹ|آرمی گیٹ|Army Gate|bus_stop|platform|||||
+node|5226556632|24.8871437|67.1541453|Star Gate Bus Stop|||bus_stop||||||
+node|5226556649|24.8844268|67.1745528|ملیر|ملیر|Malir Halt||station||halt|||
+node|5228298783|24.8328411|67.2261683|D7 Bus Stop|||bus_stop||||||
+node|5230413030|24.8689982|67.0316705|Daewoo City Terminal Pickup Point|||||bus_station||||
+node|5232539135|24.8567918|66.9867717|وزیر مینشن ریلوے اسٹیشن||Wazir Mansion Railway Station||station||station|||
+node|5232740737|25.0071038|67.3568749|Kathoor Bus Stop|||bus_stop||||||
+node|5236033911|24.9057993|67.2387592|Kachi Colony|||||bus_station||||
+node|5236111088|24.9118325|67.2372644|Falaknaz Dreams|||||bus_station||||
+node|5236111094|24.9137864|67.2460352|Falaknaz Dream Villas|||||bus_station||||
+node|5236111216|24.9112721|67.2292494|Summar Kandhani Goth|||bus_stop||||||
+node|5236111217|24.9116146|67.2291858|Soomar Ismail Goth|||bus_stop||||||
+node|5239180000|24.9185865|67.0310843|Nazimabad 7 Number Bus Stop|||bus_stop||||||
+node|5254067385|24.8423253|67.0947753|Korangi Sector 5|||bus_stop||||||
+node|5254067386|24.8125490|67.1079564|Bhittai Colony Korangi|||bus_stop||||||
+node|5254067387|24.8371475|67.1104230|Korangi Sector 15|||bus_stop||||||
+node|5254067388|24.8379527|67.1278008|Korangi Sector 24|||bus_stop||||||
+node|5259798408|24.8168486|67.1078522|Bhittai Colony|||bus_stop||||||
+node|5259798415|24.8141715|67.1383329|Gilgit Colony|||bus_stop||||||
+node|5259798416|24.8167217|67.1332997|Dambu Khan|||bus_stop||||||
+node|5259798417|24.8181685|67.1124969|Darussalam Society|||bus_stop||||||
+node|5259798418|24.8272352|67.1065513|Allahwala Town Sector A|||bus_stop||||||
+node|5259800622|24.8317851|67.1549336|Chaina Patti|||bus_stop||||||
+node|5259800623|24.8408734|67.1673637|Shareef Colony|||bus_stop||||||
+node|5259800624|24.8382961|67.1360710|Korangi Sector 25|||bus_stop||||||
+node|5259800625|24.8421562|67.1365650|Korangi Sector 17|||bus_stop||||||
+node|5265720046|24.8942388|67.0838070|AOHS|||bus_stop||||||
+node|5265904214|24.9056984|67.0999929|کچھی محلہ|کچھی محلہ|Kachi Mohalla|bus_stop|platform|||||
+node|5269335961|24.8872153|67.1861274|Baraf Khana Bus Stop|||bus_stop||||||
+node|5269655701|24.9096912|67.2001538|Humaira Town|||bus_stop||||||
+node|5269655703|24.9120002|67.1963986|Zaidi Manzil Bus Stop|||bus_stop||||||
+node|5281628947|24.9140589|67.1086302|Gulistan E Johar Block 11|||bus_stop||||||
+node|5281628951|24.9251949|67.0879734|Gulshan E Iqbal Block 2|||bus_stop||||||
+node|5283550567|24.8965780|67.0721936|Gulshan e Iqbal Block 14|||bus_stop||||||
+node|5283550568|24.9012078|67.0779316|Gulshan-e-Iqbal Block 15|||bus_stop||||||
+node|5283675745|24.7975380|67.1358935|Ibrahim Hyderi|||bus_stop||||||
+node|5283676101|24.7895238|67.1373362|Baloch Muhallah|||bus_stop||||||
+node|5286054976|24.9182440|67.1094305|Jumma Khan Goth|||bus_stop||||||
+node|5306007976|24.8230056|67.0778161|Tariq Commercial Area DHA|||bus_stop||||||
+node|5306007981|24.8119857|67.0796986|Ayubi Commercial Area DHA|||bus_stop||||||
+node|5306031857|24.8276664|67.0560132|Sunset Commercial Area DHA|||bus_stop||||||
+node|5306064494|24.8016358|67.0744864|Ittehad Commercial Area DHA|||bus_stop||||||
+node|5306072237|24.8144224|67.0708048|Sehar Commercial Area DHA|||bus_stop||||||
+node|5311735185|24.9442084|66.9338296|Naval Colony|||bus_stop||||||
+node|5311908308|24.9653497|66.9594937|Khyber Chowk|||bus_stop||||||
+node|5312274969|24.9587373|66.9242368|Pervaiz Musharraf Colony|||bus_stop||||||
+node|5312375092|24.9821629|66.9084190|Rehman City|||bus_stop||||||
+node|5314852231|25.0300283|66.8812316|Al-Saif Coach Booking Office|||||bus_station||||
+node|5314852237|25.0307662|66.8810825|Asad Chowk|||bus_stop||||||
+node|5315974148|25.0302928|66.8857230|Mengal Colony|||bus_stop||||||
+node|5320723115|24.8919760|67.0502487|PIB Colony|||bus_stop||||||
+node|5327511416|24.8151546|66.9997333|کلفٹن بلاک 1|کلفٹن بلاک 1|Clifton Block 1|bus_stop|platform|||||
+node|5327511417|24.8173568|66.9957814|Shireen Jinnah Colony|||bus_stop||||||
+node|5327511622|24.8180162|67.0070534|Clifton Block 6|||bus_stop||||||
+node|5327511623|24.8187493|66.9948380|Clifton Block 1|||bus_stop||||||
+node|5327511624|24.8164319|67.0069534|Clifton Block 2|||bus_stop||||||
+node|5327511625|24.8149679|67.0209676|Clifton Block 3|||bus_stop||||||
+node|5327511626|24.8102008|67.0319995|Clifton Block 4|||bus_stop||||||
+node|5327511627|24.8205458|67.0287684|Clifton Block 5|||bus_stop||||||
+node|5327511629|24.8272582|67.0238732|Clifton Block 7|||bus_stop||||||
+node|5327511631|24.8318525|67.0368942|Clifton Block 8|||bus_stop|platform|||||
+node|5327511632|24.8259806|67.0407967|Clifton Block 9|||bus_stop||||||
+node|5327511636|24.7723544|67.0769117|8 ڈی ایچ اے فیز|8 ڈی ایچ اے فیز|DHA Phase 8|bus_stop||||||
+node|5327511637|24.8418337|67.0631958|DHA Phase 1|||bus_stop||||||
+node|5327511639|24.8228270|67.0587870|DHA Phase 4|||bus_stop||||||
+node|5327511640|24.8071358|67.0444644|5 ڈی ایچ اے فیز|5 ڈی ایچ اے فیز|DHA Phase 5|bus_stop|platform|||||
+node|5327511641|24.8004403|67.0656489|DHA Phase 6|||bus_stop||||||
+node|5327511645|24.8185442|67.0754763|DHA Phase 7|||bus_stop||||||
+node|5327511646|24.8334636|67.0695634|DHA Phase 2 Extension|||bus_stop|platform|||||
+node|5327511648|24.8198335|67.0777899|DHA Phase 7 Extension|||bus_stop||||||
+node|5327511649|24.8416452|67.0744638|Akhter Colony Sector D|||bus_stop||||||
+node|5327511650|24.8358819|67.0727030|Akhter Colony Sector A|||bus_stop|platform|||||
+node|5327511651|24.8379281|67.0751278|Akhter Colony Sector B|||bus_stop||||||
+node|5327511652|24.8428694|67.0760097|Akhter Colony Sector E|||bus_stop||||||
+node|5327511653|24.8405938|67.0732820|Akhter Colony Sector C|||bus_stop||||||
+node|5327511655|24.8386354|67.0809089|Defence View Phase 2|||bus_stop||||||
+node|5327511656|24.8361614|67.0814488|Defence View Phase 1|||bus_stop||||||
+node|5327511661|24.8634997|67.0801993|KAEHS Block 1 Jamshed Town|||bus_stop||||||
+node|5327511672|24.8694191|67.0762374|PECHS Block 7/8 Jamshed Town|||bus_stop||||||
+node|5327511677|24.9233841|67.0876950|Gulshan e Iqbal Block 2|||bus_stop||||||
+node|5327511678|24.9283637|67.0925786|Gulshan e Iqbal Block 3|||bus_stop||||||
+node|5327511679|24.9334676|67.0992429|Gulshan e Iqbal Block 4|||bus_stop||||||
+node|5327511680|24.9398501|67.0959801|Gulshan e Iqbal Block 4 A|||bus_stop||||||
+node|5327511682|24.9467604|67.1018526|"Metroville-III, Gulshan-e-Iqbal, Block-2"|||bus_stop|platform|||||
+node|5327511683|24.9232443|67.0966611|Gulshan e Iqbal Block 6|||bus_stop||||||
+node|5327511684|24.9285007|67.1043293|Gulshan e Iqbal Block 7|||bus_stop||||||
+node|5327511685|24.9193927|67.0925652|Gulshan e Iqbal Block 5|||bus_stop||||||
+node|5327511686|24.9173968|67.0890819|Gulshan e Iqbal Block 13 D|||bus_stop||||||
+node|5327511688|24.9125426|67.0796118|Gulshan e Iqbal Block 13 G|||bus_stop||||||
+node|5327534280|24.9173108|67.0993965|Gulshan e Iqbal Block 11|||bus_stop|platform|||||
+node|5328183524|24.9790628|67.4579797|DHA CITY Sector 13|||bus_stop||||||
+node|5328183525|24.9848652|67.4762102|DHA CITY Sector 14|||bus_stop||||||
+node|5328183532|25.0115388|67.4671082|DHA CITY Sector 9|||bus_stop||||||
+node|5328183535|25.0166672|67.4440318|DHA CITY Sector 5|||bus_stop||||||
+node|5328183543|24.8739288|67.3383178|Steel Town Gym Khana|||bus_stop||||||
+node|5328676533|24.9095281|67.0913957|Gulshan e Iqbal Block 9|||bus_stop||||||
+node|5328676534|24.9283293|67.1196278|Gulistan e Johar Block 1|||bus_stop||||||
+node|5328676535|24.9334706|67.1306008|Gulistan e Johar Block 1 A|||bus_stop||||||
+node|5328676538|24.9232754|67.1339284|Gulistan e Johar Block 3 A|||bus_stop||||||
+node|5328676539|24.9301136|67.1372128|Gulistan e Johar Block 4|||bus_stop||||||
+node|5328676540|24.9318748|67.1548795|Gulistan e Johar Block 8|||bus_stop||||||
+node|5328676542|24.9143540|67.1364134|Gulistan e Johar Block 12|||bus_stop||||||
+node|5328676543|24.9110538|67.1319912|Gulistan e Johar Block 13|||bus_stop||||||
+node|5328676544|24.9199560|67.1227724|Gulistan e Johar Block 15|||bus_stop|platform|||||
+node|5329124574|24.9083000|67.1270934|Gulistan e Johar Block 18|||bus_stop||||||
+node|5329124575|24.9079411|67.1157289|Gulistan e Johar Block 20|||bus_stop||||||
+node|5329124577|24.9184544|67.1184972|Gulistan e Johar Block 16|||bus_stop|platform|||||
+node|5329124591|25.0395123|67.0497246|Gulshan E Bhero Village|||bus_stop||||||
+node|5329124595|24.9758553|67.0713255|North Karachi Sector 11|||bus_stop||||||
+node|5329124599|24.9750093|67.0540135|North Karachi Sector 9|||bus_stop||||||
+node|5329124608|24.7826038|67.0715761|DHA Phase 8 Zone A|||bus_stop||||||
+node|5329124609|24.7678612|67.0838095|DHA Phase 8 Zone E|||bus_stop||||||
+node|5329124610|24.7599055|67.0761328|DHA Phase 8 Zone D|||bus_stop||||||
+node|5329124611|24.7779795|67.0906874|DHA Phase 8 Zone B|||bus_stop||||||
+node|5329124612|24.7591679|67.0968225|DHA Phase 8 Zone C|||bus_stop||||||
+node|5329124613|24.7624011|67.0669745|DHA Phase 8 Ext|||bus_stop||||||
+node|5329124614|24.7818607|67.0563952|Muslim Commercial Area DHA|||bus_stop||||||
+node|5329124615|24.7951225|67.0495924|Shahbaz Commercial Area DHA|||bus_stop||||||
+node|5329124616|24.7935399|67.0646849|Bukhari Commercial Area DHA|||bus_stop||||||
+node|5329124617|24.7996578|67.0569973|Nishat Commercial Area DHA|||bus_stop||||||
+node|5329124618|24.8077135|67.0609969|Shahbaz Commercial Area DHA|||bus_stop||||||
+node|5329124619|24.8093851|67.0691622|Rahat Commercial Area DHA|||bus_stop||||||
+node|5329124620|24.7983522|67.0454066|Badar Commercial Area DHA|||bus_stop||||||
+node|5329128321|24.8171047|67.0411190|Zamzama Commercial Area DHA|||bus_stop||||||
+node|5329128322|24.8167310|67.0801715|Khalid Commercial Area DHA|||bus_stop||||||
+node|5329128324|24.8274300|67.0785584|A Area Qayumabad DHA|||bus_stop||||||
+node|5329128327|24.8129419|67.0497372|Stadium Commercial Area DHA|||bus_stop||||||
+node|5329128328|24.7887307|67.0790736|ذوالفقار المرتضی کمرشل ایریا ڈی ایچ اے|ذوالفقار المرتضی کمرشل ایریا ڈی ایچ اے|Zulfiqar  Al Murtaza Commercial Area DHA|bus_stop|platform|||||
+node|5329128329|24.8012329|67.0373644|Saba Commercial Area DHA|||bus_stop||||||
+node|5329128332|24.7712743|67.0759949|Peninsula Commercial Area DHA|||bus_stop||||||
+node|5329128333|24.8321080|67.0707152|DHA Phase 2 Commercial|||bus_stop|platform|||||
+node|5329128335|24.9683418|67.0721977|Muslim Town|||bus_stop||||||
+node|5329128345|24.9697101|67.0577890|North Karachi Sector 11 C 3|||bus_stop||||||
+node|5329128346|24.9697891|67.0605367|North Karachi Sector 11 C 2|||bus_stop||||||
+node|5329381969|24.9754873|67.0602599|North Karachi Sector 11 B|||bus_stop||||||
+node|5329381971|24.9714580|67.0827316|North Karachi Sector 11 G|||bus_stop||||||
+node|5329381973|24.9821033|67.0820707|North Karachi Sector 11 F|||bus_stop||||||
+node|5329381974|24.9746537|67.0753341|North Karachi Sector 11 J|||bus_stop||||||
+node|5329381975|24.9913507|67.0737999|North Karachi Sector 5 E|||bus_stop||||||
+node|5329381976|24.9880624|67.0577406|North Karachi Sector 5 C 3`|||bus_stop||||||
+node|5329381977|24.9916932|67.0815711|North Karachi Sector 5 G|||bus_stop||||||
+node|5329381987|25.0048332|67.0617625|North Karachi Sector 5 A 2|||bus_stop||||||
+node|5329381989|24.9962578|67.0596116|North Karachi Sector 5 B 1|||bus_stop||||||
+node|5329381991|24.9965915|67.0672846|North Karachi Sector 5 M|||bus_stop||||||
+node|5329381997|25.0014251|67.0565475|North Karachi Sector 5 A 3|||bus_stop||||||
+node|5329381998|25.0016798|67.0620720|North Karachi Sector 5 A 4|||bus_stop||||||
+node|5329381999|25.0045412|67.0563726|North Karachi Sector 5 A 1|||bus_stop||||||
+node|5329382000|25.0233621|67.0729777|Surjani Town Sector 4 D|||bus_stop||||||
+node|5329382007|25.0494577|67.0585911|Surjani Town Sector 11 B|||bus_stop||||||
+node|5330850887|24.9623376|67.0590722|Shadman Town Sector 14 B|||bus_stop||||||
+node|5330850889|24.9546488|67.0719951|Buffar Zone Sector 16 A|||bus_stop||||||
+node|5330851436|24.9168772|67.0740383|Gulshan E Shameem FB Area|||bus_stop||||||
+node|5330851437|24.9358137|67.1196869|Karachi University Gulshan e Iqbal|||bus_stop||||||
+node|5330851460|24.9415924|67.1182217|University Shuttle Depot|||||bus_station||||
+node|5330973764|24.9382231|67.1027744|Commissioner Society Gulshan e Iqbal|||bus_stop||||||
+node|5330973765|24.9374570|67.1041434|Railway Society Gulshan e Iqbal|||bus_stop||||||
+node|5330973769|24.9400039|67.0926904|Azeem Goth Gulshan e Iqbal|||bus_stop||||||
+node|5330973770|24.9420831|67.0937862|Abbas Town Gulshan e Iqbal|||bus_stop||||||
+node|5330973773|24.9636577|67.0573859|North Nazimabad Block 14|||bus_stop||||||
+node|5330973774|24.9494571|67.0580778|North Nazimabad Block N|||bus_stop||||||
+node|5330973775|24.9431463|67.0524998|North Nazimabad Block L|||bus_stop||||||
+node|5330973779|24.9222311|67.0245056|Nazimabad Block 5|||bus_stop||||||
+node|5330973780|24.9259277|67.0261063|North Nazimabad Block W|||bus_stop||||||
+node|5330973781|24.9316418|67.0222014|North Nazimabad Block U|||bus_stop||||||
+node|5330973783|24.9302051|67.0309326|North Nazimabad Block A|||bus_stop||||||
+node|5330973784|24.9371948|67.0342981|North Nazimabad Block C|||bus_stop||||||
+node|5330973785|24.9412758|67.0326979|North Nazimabad Block Q|||bus_stop||||||
+node|5330973787|24.9441961|67.0407088|North Nazimabad Block D|||bus_stop||||||
+node|5330973789|24.9506256|67.0417214|North Nazimabad Block S|||bus_stop||||||
+node|5330973791|24.9574012|67.0474661|North Nazimabad Block T|||bus_stop||||||
+node|5331329913|24.9468556|67.0729708|FB Area Block 18|||bus_stop||||||
+node|5331329917|24.9422011|67.0659449|ایف بی ایریا بلاک 12|ایف بی ایریا بلاک 12|FB Area Block 12|bus_stop|platform|||||
+node|5331329918|24.9355436|67.0609490|FB Area Block 11|||bus_stop||||||
+node|5331329919|24.9221272|67.0550600|FB Area Block 4|||bus_stop||||||
+node|5331329920|24.9187662|67.0598110|FB Area Block 3|||bus_stop||||||
+node|5331331030|24.9462204|67.0552668|North Nazimabad Block M|||bus_stop||||||
+node|5331331032|24.9485034|67.0509468|North Nazimabad Block K|||bus_stop||||||
+node|5331331033|24.9147689|67.0264659|Nazimabad Block 3|||bus_stop||||||
+node|5331331034|24.9133647|67.0352508|Nazimabad Block 4|||bus_stop||||||
+node|5331331038|24.9066434|67.0267815|Nazimabad Block 1|||bus_stop||||||
+node|5331331039|24.9163932|67.0202866|Orangabad|||bus_stop||||||
+node|5331331041|24.9093970|67.0212213|Jalabaad Nazimabad|||bus_stop||||||
+node|5331331042|24.9035070|67.0217591|Jahangirabad Nazimabad|||bus_stop||||||
+node|5331463967|24.8761944|67.3444630|Steel Town Block E|||bus_stop||||||
+node|5331463969|24.8677838|67.3435397|Steel Town Block B|||bus_stop||||||
+node|5331463970|24.8670793|67.3396868|Steel Town Block C|||bus_stop||||||
+node|5331463971|24.8695065|67.3351741|Steel Town Block G|||bus_stop||||||
+node|5331463974|24.8713341|67.3409290|Steel Town Block A|||bus_stop||||||
+node|5331463975|24.8047324|67.3456784|Pakistan Still Mills|||bus_stop||||||
+node|5331463976|24.8553263|67.3380259|"Eido Goth, Bin Qasim"|||bus_stop||||||
+node|5331463977|24.8479001|67.3396079|"Pipro Goth, Bin Qasim"|||bus_stop||||||
+node|5331463978|24.8539275|67.3313381|شاہ ٹاؤن، بن قاسم|شاہ ٹاؤن، بن قاسم|"Shah Town, Bin Qasim"|bus_stop|platform|||||
+node|5331463979|24.8535509|67.3476642|"TCP Godown Pipri, Bin Qasim"|||bus_stop||||||
+node|5331463984|25.0852299|67.3783489|"Precinct 57, Bahria Town"|||bus_stop||||||
+node|5331463985|25.0632821|67.3621758|"Precinct 55, Bahria Town"|||bus_stop||||||
+node|5331463986|25.0550818|67.3707542|"Precinct 54, Bahria Town"|||bus_stop||||||
+node|5331463987|25.0399404|67.3713189|"Precinct 53, Bahria Town"|||bus_stop||||||
+node|5331463990|25.0317447|67.3560446|"Precinct 52, Bahria Town"|||bus_stop||||||
+node|5331463991|25.0794354|67.3688707|"Precinct 56, Bahria Town"|||bus_stop||||||
+node|5331492484|25.1391282|67.4074971|"Precinct 42, Bahria Town"|||bus_stop||||||
+node|5331492493|25.0737761|67.3311838|"Precinct 27 A, Bahria Town"|||bus_stop||||||
+node|5331492504|25.1193733|67.3491879|"Precinct 36, Bahria Town"|||bus_stop||||||
+node|5331546691|25.0381060|67.3176629|"zenith plaza, Bahria Town"|||bus_stop||||||
+node|5331546696|25.0296937|67.3003178|"Precinct 4, Bahria Town"|||bus_stop||||||
+node|5331546700|24.9845643|67.1052622|"Pakistan Audit Cooperative Housing Society, Sector 11 Scheme 33"|||bus_stop||||||
+node|5331546701|24.9896793|67.1036425|Sindhi Momin  Cooperative Housing Society|||bus_stop||||||
+node|5331546704|24.9910977|67.1073158|"Quetta Qallat Cooperative Housing Society, Sector 54 Scheme 33"|||bus_stop||||||
+node|5331546708|25.0010063|67.1091929|"Ahsanabad Sector 4,Scheme 33"|||bus_stop||||||
+node|5331546709|24.9977372|67.1144950|"Ahsanabad Sector 5,Scheme 33"|||bus_stop|platform|||||
+node|5331546710|25.0018728|67.1186988|"Ahsanabad Sector 1,Scheme 33"|||bus_stop|platform|||||
+node|5331546711|25.0054060|67.1069407|"Ahsanabad Sector 3,Scheme 33"|||bus_stop||||||
+node|5331546712|25.0052763|67.1135214|"Ahsanabad Sector 2,Scheme 33"|||bus_stop|platform|||||
+node|5331546716|25.0072888|67.1276599|"Rana Villas, Sector 52 A Scheme 33"|||bus_stop||||||
+node|5331572172|25.0039800|67.1276317|"Writers Guild Cooperative Housing Society, Sector 51 A Scheme 33"|||bus_stop|platform|||||
+node|5331572174|24.9996435|67.1286925|Cotton Export Cooperative Housing Society|||bus_stop|platform|||||
+node|5331572175|24.9986868|67.1315552|"Gulshan e Hadi Cooperative Housig Society, Sector 51 A Scheme 33"|||bus_stop|platform|||||
+node|5331594623|25.0505616|67.0949828|"Ajmair Goth, Teaser Town"|||bus_stop||||||
+node|5331594631|24.9497491|67.1530383|"King residency, Sector 34 A Scheme 33"|||bus_stop||||||
+node|5331594632|24.9483749|67.1556614|"Lakhani Fantaisa, Sector 34 A Scheme 33"|||bus_stop||||||
+node|5331594633|24.9593146|67.1507684|"Abullah Shah Ghazi Goth, Sector 30 B Scheme 33"|||bus_stop|platform|||G-17|First|
+node|5331594634|24.9723331|67.1555735|"Al Raheem Raza City Phase 2, Scheme 33"|||bus_stop||||||
+node|5331594635|24.9677703|67.1510528|"Al Raheem Raza City Phase 1, Sector 31 B Scheme 33"|||bus_stop||||||
+node|5331594636|24.9735026|67.1609423|"Madina Colony, Scheme 33"|||bus_stop||||||
+node|5331594637|24.9865592|67.1526065|"Gulistan Society, Scheme 33"|||bus_stop||||||
+node|5331594638|24.9808874|67.1592871|"Okhai Mandal Cooperative Housing Society, Scheme 33"|||bus_stop||||||
+node|5331594640|24.9838477|67.1536765|"Al Amna Cooperative Housing Society, Scheme 33"|||bus_stop||||||
+node|5331594641|24.9837849|67.1498355|"Andleeb Cooperative Housing Society, Scheme 33"|||bus_stop||||||
+node|5331594642|24.9797841|67.1545313|Gulshan-e-Mehmoodul Haq|||bus_stop||||||
+node|5331594647|24.9765849|67.1507594|"Agha Khan Bangalows, Scheme 33"|||bus_stop||||||
+node|5331594653|24.9670394|67.1396391|"Civil Aviation Cooperative Housing Society, Sector 25 A Scheme 33"|||bus_stop||||||
+node|5331619595|24.9639690|67.1352480|"Falaknaz Golden Pebbles, Sector 24 A Scheme 33"|||bus_stop||||||
+node|5331619604|24.9361557|67.1380264|"Rabia Villas, Gulshan e Iqbal"|||bus_stop||||||
+node|5331619609|24.9413059|67.1492374|"Al Muslim Cooperative Housing Society, Sector 33 Scheme 33"|||bus_stop|platform|||||
+node|5331619610|24.9441116|67.1495860|"Haroon Bangalows Phase 1, Sector 33 Scheme 33;Zehra Nagar, Sector 33 Scheme 33"|||bus_stop|platform|||||
+node|5331619618|24.9411489|67.1511141|"Haroon Bangalows Phase 2 , Sector 33 Scheme 33"|||bus_stop|platform|||||
+node|5331619619|24.9407865|67.1559452|"Haris Bangalows, Sector 34 A Scheme 33"|||bus_stop||||||
+node|5331620625|24.9472535|67.1539685|"Gulshan e Dozan, Sector 34 A Scheme 33"|||bus_stop||||||
+node|5331647489|24.9496475|67.1627720|"Gulshan e Azeem, Sector 35 A Scheme 33"|||bus_stop||||||
+node|5331647506|24.9631033|67.1801842|"Police Cooperative Housing Society, Scheme 33"|||bus_stop||||||
+node|5331647507|24.9773115|67.1762437|"Saadi Town Block 7 , Scheme 33"|||bus_stop||||||
+node|5331648121|24.9913055|67.1442361|"ICI Cooperative Housing Society, Scheme 33"|||bus_stop||||||
+node|5331648122|24.9929505|67.1425105|"Mustafa Town, Scheme 33"|||bus_stop||||||
+node|5331648123|24.9880348|67.1444847|"University Alumini Cooperative Housning Society, Scheme 33"|||bus_stop||||||
+node|5331853117|24.9161949|67.0217581|Bara Maidan|||bus_stop||||||
+node|5331855846|24.9176056|67.0281877|Allahwala Chowk|||bus_stop||||||
+node|5333234952|24.9026250|67.0550576|لیاقت آباد بلاک 7|لیاقت آباد بلاک 7|Liaquatabad Block 7|bus_stop||||||
+node|5333234953|24.9046888|67.0534769|لیاقت آباد بلاک 8|لیاقت آباد بلاک 8|Liaquatabad Block 8|bus_stop|platform|||||
+node|5333234956|24.9065121|67.0564344|سکندر آباد - لیاقت آباد|سکندر آباد - لیاقت آباد|Sikanderabad - Liaquatabad|bus_stop|platform|||||
+node|5333234966|24.8879138|67.0363852|People'S Colony Jamshed Town|||bus_stop||||||
+node|5333234967|24.8774680|67.0340714|Soldier BazarJamshed Town|||bus_stop||||||
+node|5333234968|24.8726085|67.0421885|Mazar E Qaid|||bus_stop||||||
+node|5333234969|24.8676996|67.0386306|Lines Area Jamshed Town|||bus_stop||||||
+node|5333234971|24.8773114|67.0463382|Shikarpur Colony Jamshed Town|||bus_stop||||||
+node|5333234972|24.8507206|67.0601802|Chanesar Goth|||bus_stop||||||
+node|5333234974|24.8524310|67.0852194|Manzoor Colony Jamshed Town|||bus_stop||||||
+node|5333234975|24.8465672|67.0753907|Azeem Town Jamshed Town|||bus_stop||||||
+node|5333234977|24.8379414|67.0764068|Kashmir Colony Jamshed Town|||bus_stop||||||
+node|5333234980|24.8785379|67.0634535|New Karachi Cooperative Housing Society Jamshed Town|||bus_stop||||||
+node|5333234981|24.8798768|67.0615806|Maniya Cooperative Housing Society Jamshed Town|||bus_stop||||||
+node|5333234984|24.8833504|67.0584296|Modren Cooperative Housing Society Jamshed Town|||bus_stop||||||
+node|5333234986|24.8856510|67.0614716|Karachi Cooperative Housing Society Gulshan e Iqbal|||bus_stop||||||
+node|5333234987|24.8852018|67.0624243|Maqbool Cooperative Housing Society Gulshan e Iqbal|||bus_stop||||||
+node|5333234988|24.8842422|67.0640105|C P & Berar Society Gulshan e Iqbal|||bus_stop||||||
+node|5333234989|24.8834431|67.0653889|Bihar Muslim Cooperative Housing Society Gulshan e Iqbal|||bus_stop||||||
+node|5333234990|24.8815203|67.0682704|Bahadur Yar Jang Cooperative Housing Society Gulshan e Iqbal|||bus_stop||||||
+node|5333234991|24.8810223|67.0723868|Kokan Muslim Cooperative Housing Society Gulshan e Iqbal|||bus_stop||||||
+node|5333234993|24.8875359|67.0651963|Bangali Para Gulshan e Iqbal|||bus_stop||||||
+node|5333234995|24.8879755|67.0656158|Higher Education Commission Gulshan e Iqbal|||bus_stop||||||
+node|5333234999|24.8872216|67.0775418|Dhoraji Cooperative Housing Society Gulshan e Iqbal|||bus_stop||||||
+node|5333235001|24.8809873|67.0897923|KDA Scheme 1 Gulshan e Iqbal|||bus_stop||||||
+node|5333235002|24.8776353|67.0860798|Mohammad Ali Society Gulshan e Iqbal|||bus_stop||||||
+node|5333235003|24.8730737|67.0840201|Khatiawar Society Gulshan e Iqbal|||bus_stop||||||
+node|5333235004|24.8699378|67.0837055|Bangalore Town Gulshan e Iqbal|||bus_stop||||||
+node|5333235005|24.8750294|67.0794340|Al Hamra Society Gulshan e Iqbal|||bus_stop||||||
+node|5333235006|24.8769241|67.0833675|Shabbirabad Society Gulshan e Iqbal|||bus_stop||||||
+node|5333235009|24.8770696|67.0729426|Koria Cooperative Housing Society Gulshan e Iqbal|||bus_stop||||||
+node|5333235010|24.8761379|67.0739105|Naseem Cooperative Housing Society Gulshan e Iqbal|||bus_stop||||||
+node|5333235011|24.8763051|67.0747391|Faran Cooperative Housing Society Gulshan e Iqbal|||bus_stop||||||
+node|5333235012|24.8747465|67.0765100|Bihar Muslim Cooperative Housing Society Gulshan e Iqbal|||bus_stop||||||
+node|5333235013|24.8817005|67.0801638|Berar Cooperative Housing Society Gulshan e Iqbal|||bus_stop||||||
+node|5333235014|24.8777535|67.0775757|Bahadur Yar Jang  Cooperative Housing Society Gulshan e Iqbal|||bus_stop||||||
+node|5333235018|24.8733796|67.0701846|Rohail Kand Society Jamshed Town|||bus_stop||||||
+node|5333235019|24.8704296|67.0755258|Karachi Memon Cooperative Housing Society Jamshed Town|||bus_stop||||||
+node|5333235020|24.8705637|67.0779933|Dehli Merchantile Cooperative Housing Society Jamshed Town|||bus_stop||||||
+node|5333236723|24.8654726|67.0758439|Maqbool Cooperative Housing Society Jamshed Town|||bus_stop||||||
+node|5333236724|24.8660107|67.0765120|Dehli Merchantile Cooperative Housing Society Jamshed Town|||bus_stop||||||
+node|5333236725|24.8894675|67.0607924|New Town Police Line Gulshan e Iqbal|||bus_stop||||||
+node|5333236726|24.8916992|67.0651318|KDA Scheme 7 Gulshan e Iqbal|||bus_stop||||||
+node|5333236727|24.8943959|67.0676175|Al Hilal Society Gulshan e Iqbal|||bus_stop||||||
+node|5333236728|24.8948112|67.0787725|National Sports Training And Coaching Center Gulshan e Iqbal|||bus_stop||||||
+node|5333236732|24.8925723|67.0511350|PIB Colony Gulshan e Iqbal|||bus_stop||||||
+node|5333236733|24.8865665|67.1153086|پی اے ایف رہائشی علاقہ فیصل کینٹ|پی اے ایف رہائشی علاقہ فیصل کینٹ|PAF Residential Area Faisal Cantt|bus_stop|platform|||||
+node|5333236734|24.8800010|67.1192344|PAF Faisal Base Faisal Cantt|||bus_stop||||||
+node|5333236736|24.8887578|67.0990234|PNS Karsaz Faisal Cantt|||bus_stop||||||
+node|5333236737|24.8912626|67.1254279|Army Storage Area Faisal Cantt|||bus_stop||||||
+node|5333236738|24.9127473|67.1387743|Sindh Baloch Society Faisal Cantt|||bus_stop||||||
+node|5333236740|24.9115156|67.1419513|Pehlwan Goth Gulshan e Iqbal|||bus_stop||||||
+node|5333236741|24.9163399|67.1426789|PIA Housing Society Gulshan e Iqbal|||bus_stop|platform|||||
+node|5333236742|24.9171881|67.1502288|Bitthaiabad Faisal Cantt|||bus_stop||||||
+node|5333528278|24.9909863|67.1483359|"Shah Wilayat Cooperative Housing Society, Scheme 33"|||bus_stop||||||
+node|5333528283|24.9841705|67.1387695|"Makhdoomabad Cooperative Housing Society, Scheme 33"|||bus_stop||||||
+node|5333528284|24.9836183|67.1431371|"Kutchi Memon Cooperative Housing Society, Scheme 33"|||bus_stop||||||
+node|5333528285|24.9873713|67.1394428|"Pakistan Navy Cooperative Housing Society, Scheme 33"|||bus_stop||||||
+node|5333528302|24.9625313|67.1243046|"SBP Cooperative Housing Society, Sector 17 A Scheme 33"|||bus_stop||||||
+node|5333528303|24.9599013|67.1220611|"Madras Cooperative Housing Society, Sector 17 A Scheme 33"|||bus_stop||||||
+node|5333528306|24.9611901|67.1091344|"Dawood Bangalows, Sector 15 B Scheme 33"|||bus_stop||||||
+node|5333528307|24.9499683|67.0962772|"Ali Town, Sector 13 A Scheme 33"|||bus_stop||||||
+node|5333528308|24.9459967|67.0981594|"Delux Garden, Sector 13 A Scheme 33"|||bus_stop||||||
+node|5333528309|24.9441459|67.0975099|"Pairadise Homes, Sector 13 A Scheme 33"|||bus_stop||||||
+node|5333528310|24.9481945|67.0958101|"Rufi Green Land, Sector 13 A Scheme 33"|||bus_stop||||||
+node|5333528311|24.9509041|67.0994543|"Sikander Goth, Sector 13 A Scheme 33"|||bus_stop||||||
+node|5333528312|24.9474912|67.0982690|"Rufi Spring Field, Sector 13 A Scheme 33"|||bus_stop||||||
+node|5333528313|24.9461242|67.0996193|"A one Bangalows, Sector 13 A Scheme 33"|||bus_stop||||||
+node|5333528314|24.9481070|67.1012852|"Post Officers Cooperative Housing Society, Sector 13 A Scheme 33"|||bus_stop||||||
+node|5333528315|24.9497314|67.1033487|"Memon Nagar Block 1 , Sector 13 A Scheme 33"|||bus_stop||||||
+node|5333528316|24.9504538|67.1046349|"Kehkashan Homes, Sector 13 C Scheme 33"|||bus_stop||||||
+node|5333528317|24.9571878|67.1128489|"KDA Cooperative Housing Society, Sector 15 A Scheme 33"|||bus_stop||||||
+node|5333528318|24.9607872|67.1137398|"Pakistan Merchant Navy Cooperative Housing Soceity, Sector 15 A Scheme 33"|||bus_stop||||||
+node|5333528319|24.9551329|67.1061526|"Memon Nagar Block 2 , Sector 15 A Scheme 33"|||bus_stop||||||
+node|5333529821|24.9542099|67.1100786|"Shaz Residency, Sector 15 A Scheme 33"|||bus_stop||||||
+node|5333529822|24.9550524|67.1111452|"Rufi Rose Petal Bangalows, Sector 15 A Scheme 33"|||bus_stop||||||
+node|5333529823|24.9530456|67.1082622|"Malik Cooperative Housing Society Block 2, Sector 15 A Scheme 33"|||bus_stop||||||
+node|5333529825|24.9486727|67.1087463|"White Housing, Sector 16 B Scheme 33"|||bus_stop||||||
+node|5333529826|24.9549961|67.1132441|"Shaz Bangalows, Sector 16 A Scheme 33"|||bus_stop||||||
+node|5333529827|24.9540279|67.1126710|"Gulshan e Kaneez Fatima Cooperative Housing Society Block 3, Sector 16 A Scheme 33"|||bus_stop||||||
+node|5333529829|24.9535091|67.1160501|"Gulshan e Kaneez Fatima Cooperative Housing Society Block 2, Sector 16 A Scheme 33"|||bus_stop||||||
+node|5333529830|24.9572137|67.1185509|"Goverment Teachers Housing Society, Sector 16 A Scheme 33"|||bus_stop||||||
+node|5333529834|24.9562012|67.1156467|"Gulshan e Kaneez Fatima Cooperative Housing Society Block 4, Sector 16 A Scheme 33"|||bus_stop||||||
+node|5333529861|25.0599373|67.1403476|Teaser Town Sector 61 C|||bus_stop||||||
+node|5333529863|25.0320204|67.1249650|Abdullah Gabol Goth|||bus_stop||||||
+node|5333529864|25.0367998|67.1284105|Faizan City Scheme 45|||bus_stop||||||
+node|5333529865|25.0367402|67.1535570|Garden City Block C Garden City|||bus_stop||||||
+node|5333529866|25.0375189|67.1475254|Garden City Block A|||bus_stop||||||
+node|5333529867|25.0347149|67.1501896|Garden City Block B|||bus_stop||||||
+node|5333529868|25.0012339|67.0982422|SITE Scheme 33 Phase 1|||bus_stop||||||
+node|5333529869|25.0210799|67.1100442|SITE Scheme 33 Phase 2|||bus_stop||||||
+node|5333529870|25.0291865|67.1384982|Gulshan e Maymar Sector R 2|||bus_stop||||||
+node|5333529871|25.0274380|67.1368250|Gulshan e Maymar Sector R 1|||bus_stop||||||
+node|5333529872|25.0291159|67.1347893|Gulshan e Maymar Sector R 5|||bus_stop||||||
+node|5333529873|25.0310063|67.1359162|Gulshan e Maymar Sector R 4|||bus_stop||||||
+node|5333529874|25.0171224|67.1401197|Gulshan e Maymar Sector S 2|||bus_stop||||||
+node|5333529875|25.0199707|67.1423312|Gulshan e Maymar Sector S 1|||bus_stop||||||
+node|5333529876|25.0168650|67.1427458|Gulshan e Maymar Sector S 4|||bus_stop||||||
+node|5333549523|24.9646823|67.0536277|Anda mor|||bus_stop||||||
+node|5333549822|24.9658566|67.0666415|Nagan chorangi|||||bus_station||||
+node|5333621215|25.0306397|67.1462390|Gulshan e Maymar Sector Q|||bus_stop||||||
+node|5333621216|25.0286287|67.1472748|Gulshan e Maymar Sector Q 1|||bus_stop||||||
+node|5333621217|25.0204910|67.1389390|Gulshan e Maymar Sector T 1|||bus_stop||||||
+node|5333621218|25.0245345|67.1394494|Gulshan e Maymar Sector T 3|||bus_stop||||||
+node|5333621219|25.0228061|67.1371812|Gulshan e Maymar Sector T 2|||bus_stop||||||
+node|5333621220|25.0148509|67.1342439|Gulshan e Maymar Sector W 1|||bus_stop||||||
+node|5333621921|25.0181294|67.1369426|Gulshan e Maymar Sector W 4|||bus_stop||||||
+node|5333621922|25.0172000|67.1316840|Gulshan e Maymar Sector W 2|||bus_stop||||||
+node|5333621923|25.0168975|67.1350974|Gulshan e Maymar Sector W 5|||bus_stop||||||
+node|5333621924|25.0258163|67.1328984|Gulshan e Maymar Sector Y 1|||bus_stop||||||
+node|5333621925|25.0244563|67.1351583|Gulshan e Maymar Sector Y 4|||bus_stop||||||
+node|5333621926|25.0282503|67.1319046|Gulshan e Maymar Sector Y 3|||bus_stop||||||
+node|5333621927|25.0263000|67.1258950|Gulshan e Maymar Sector X 5|||bus_stop||||||
+node|5333621928|25.0225364|67.1245033|Gulshan e Maymar Sector X 3|||bus_stop||||||
+node|5333621929|25.0227942|67.1265811|Gulshan e Maymar Sector X 4|||bus_stop||||||
+node|5333621930|25.0234453|67.1305237|Gulshan e Maymar Sector X 7|||bus_stop||||||
+node|5333621931|25.0209965|67.1320291|Gulshan e Maymar Sector X 8|||bus_stop||||||
+node|5333621932|25.0187993|67.1295355|Gulshan e Maymar Sector X 1|||bus_stop||||||
+node|5333621933|25.0207051|67.1280857|Gulshan e Maymar Sector X 2|||bus_stop||||||
+node|5333621934|25.0168621|67.1262307|Gulshan e Maymar Sector Z 5|||bus_stop||||||
+node|5333621935|25.0181048|67.1248428|Gulshan e Maymar Sector Z 4|||bus_stop||||||
+node|5333621936|25.0156819|67.1221227|Gulshan e Maymar Sector Z 3|||bus_stop||||||
+node|5333621937|25.0144956|67.1242756|Gulshan e Maymar Sector Z 2|||bus_stop||||||
+node|5333621938|25.0117653|67.1269382|Gulshan e Maymar Sector Z 1|||bus_stop||||||
+node|5333621939|25.0201582|67.1218854|Roti Copration|||bus_stop||||||
+node|5333621940|25.0167908|67.1208052|Gulshan e Maymar Sector V 1|||bus_stop||||||
+node|5333621941|25.0197728|67.1194717|Gulshan e Maymar Sector V 3|||bus_stop||||||
+node|5333621942|25.0178199|67.1183153|Gulshan e Maymar Sector V 4|||bus_stop||||||
+node|5333621943|25.0134132|67.1172185|Gulshan e Maymar Sector U 3|||bus_stop||||||
+node|5333621944|25.0159098|67.1157679|Gulshan e Maymar Sector U 2|||bus_stop||||||
+node|5333621946|25.0210291|67.1227423|Sindh Provicial Employees SCooperative Housing Society|||bus_stop||||||
+node|5333621947|25.0323861|67.1449092|Gulshan e Maymar Sector Q|||bus_stop||||||
+node|5333621948|25.0308319|67.1400132|Gulshan e Maymar Sector R 3|||bus_stop||||||
+node|5333621949|25.0287555|67.1293434|Gulshan e Maymar Sector Y 2|||bus_stop||||||
+node|5333621950|25.0224229|67.1414763|Gulshan e Maymar Sector T 4|||bus_stop||||||
+node|5333621951|25.0187252|67.1218823|Gulshan e Maymar Sector V 2|||bus_stop||||||
+node|5333621952|25.0134918|67.1324160|Gulshan e Maymar Sector Z A|||bus_stop||||||
+node|5333621953|25.0252225|67.1275546|Gulshan e Maymar Sector X 6|||bus_stop||||||
+node|5333621954|25.0200878|67.1344839|Gulshan e Maymar Sector W 3|||bus_stop||||||
+node|5333621955|25.0195174|67.1448289|Gulshan e Maymar Sector S 3|||bus_stop||||||
+node|5333621956|25.0146150|67.1286086|Gulshan e Maymar Sector Z 6|||bus_stop||||||
+node|5333621957|25.0152273|67.1178983|Gulshan e Maymar Sector U 1|||bus_stop||||||
+node|5333621959|24.8382973|67.1969681|"Shams Villas, Landhi"|||bus_stop||||||
+node|5333621960|24.8385181|67.1988782|"Khurramabad, Landhi"|||bus_stop||||||
+node|5333621961|24.8358695|67.1935941|"Farooq Villas, Landhi"|||bus_stop||||||
+node|5333621962|24.8241860|67.2091981|"Lalabad , Landhi"|||bus_stop||||||
+node|5333621968|24.8207507|67.2350948|"Bakhtawar Goth, Landhi"|||bus_stop||||||
+node|5333621970|24.8346095|67.2367673|"Majeed Colony No 2, Landhi"|||bus_stop||||||
+node|5333621974|24.8315594|67.2436600|New Labourers Quarters|||bus_stop||||||
+node|5333621975|24.8469379|67.2295948|"Zafar Town, Bin Qasim"|||bus_stop||||||
+node|5333621977|24.8612669|67.2098643|"Jamal e Ibrahim Housing Society, Bin Qasim"|||bus_stop||||||
+node|5333621980|24.8558803|67.2035705|Future Colony|||bus_stop||||||
+node|5333621982|24.8570179|67.1932611|"Jamal Goth, Landhi"|||bus_stop||||||
+node|5333621983|24.8601384|67.2151090|"Quaidabad Colony, Bin Qasim"|||bus_stop||||||
+node|5333621984|24.8558779|67.1719238|"Jalal Murad Goth, Landhi"|||bus_stop||||||
+node|5333621985|24.8512266|67.1652465|Shareef Naik Muhammad Village|||bus_stop||||||
+node|5333621986|24.8528611|67.1369116|"Gulzar Colony Sector 8 C , Korangi"|||bus_stop||||||
+node|5333621989|24.8582541|67.1319464|"Gulzar Colony Sector 8 F , Korangi"|||bus_stop||||||
+node|5333621991|24.8553637|67.1552059|"Bilal Colony Sector B , Korangi"|||bus_stop||||||
+node|5333621992|24.8521419|67.1333379|"Gulzar Colony Sector 8 D , Korangi"|||bus_stop||||||
+node|5333621993|24.8490362|67.1142283|"Shareefabad, Sector 6 Korangi"|||bus_stop||||||
+node|5333621994|24.8470239|67.1084780|"Mehran Town, Scheme 33"|||bus_stop||||||
+node|5333621998|24.8601240|67.1504198|"Bagha e Korangi Sector B, Landhi"|||bus_stop||||||
+node|5333621999|24.8591143|67.1510431|"Bagha e Korangi Sector C, Landhi"|||bus_stop||||||
+node|5333622000|24.8580153|67.1520782|"Bagha e Korangi Sector D, Landhi"|||bus_stop||||||
+node|5333622001|24.8570201|67.1526812|"Bagha e Korangi Sector E, Landhi"|||bus_stop||||||
+node|5333622002|24.8560197|67.1533871|"Bagha e Korangi Sector F, Landhi"|||bus_stop||||||
+node|5333622003|24.8655010|67.1515780|"Haji Ahmed Harfani Goth, Sector 10 Korangi"|||bus_stop||||||
+node|5333622004|24.8610319|67.1490790|"Bagha e Korangi Sector A, Landhi"|||bus_stop||||||
+node|5333622005|24.8604816|67.1546633|Gulshan-e-Millat|||bus_stop||||||
+node|5333622008|24.8445390|67.1373570|کورنگی صنعتی زون|کورنگی صنعتی زون|Korangi Industrial Zone|bus_stop|platform|||||
+node|5333622009|24.8208859|67.1403744|Korangi Sector 41 A|||bus_stop||||||
+node|5333622010|24.8216227|67.1444120|Korangi Sector 41 B|||bus_stop||||||
+node|5333622011|24.8066055|67.1492465|Fracis Town|||bus_stop||||||
+node|5333622012|24.8201824|67.1696708|Korangi Sector 51 A|||bus_stop||||||
+node|5333622013|24.8182043|67.1855778|"ilyas Goth,Sector 51 Korangi"|||bus_stop||||||
+node|5333622014|24.8224837|67.1833767|Korangi Sector 51 C|||bus_stop||||||
+node|5333760786|24.8213772|67.1766775|Korangi Sector 51 B|||bus_stop||||||
+node|5333760787|24.8139579|67.1741292|Korangi Sector 51 D|||bus_stop||||||
+node|5333760788|24.8228509|67.1539820|Rahimabad|||bus_stop||||||
+node|5333760789|24.8261298|67.1719977|Korangi Sector 44 B|||bus_stop||||||
+node|5333760790|24.8255070|67.1679575|Korangi Sector 44 A|||bus_stop||||||
+node|5333760791|24.8269503|67.1772505|Korangi Sector 44 C|||bus_stop||||||
+node|5333760792|24.8256204|67.1541411|Korangi Sector 35 C|||bus_stop||||||
+node|5333760793|24.8285574|67.1513567|"N Area, Sector 35 Korangi"|||bus_stop||||||
+node|5333760794|24.8330816|67.1497729|"Gulshan e Muhammadi, Sector 35 Korangi"|||bus_stop||||||
+node|5333760795|24.8362984|67.1527102|"Zaman Town, Sector 35 Korangi"|||bus_stop||||||
+node|5333760796|24.8384436|67.1485025|"Labour Square, Sector 35 Korangi"|||bus_stop||||||
+node|5333760797|24.8356653|67.1497694|"Farhat Bangalows, Sector 35 Korangi"|||bus_stop||||||
+node|5333760798|24.8308096|67.1472200|Korangi Sector 34/2|||bus_stop||||||
+node|5333760799|24.8367454|67.1456501|Korangi Sector 34/3|||bus_stop||||||
+node|5333760800|24.8244009|67.1391893|Korangi Sector 33 Q|||bus_stop||||||
+node|5333760801|24.8275842|67.1066795|"Allah Wala Town, Sector 31 Korangi"|||bus_stop||||||
+node|5333760806|24.8128492|67.1087055|"Bhattai Colony, Sector 38 Korangi"|||bus_stop||||||
+node|5333760807|24.8277753|67.1478722|Korangi Sector 34/1|||bus_stop||||||
+node|5333760810|24.8254046|67.1434244|Korangi Sector 33 P|||bus_stop||||||
+node|5333760811|24.8268340|67.1414732|Korangi Sector 33 B|||bus_stop||||||
+node|5333760812|24.8292294|67.1410433|Korangi Sector 33 C|||bus_stop||||||
+node|5333760813|24.8329333|67.1368432|Korangi Sector 33 F|||bus_stop||||||
+node|5333760814|24.8338334|67.1407284|Korangi Sector 33 D|||bus_stop||||||
+node|5333760815|24.8371342|67.1391052|Korangi Sector 33 E|||bus_stop||||||
+node|5333760817|24.8213076|67.1129070|"Dar ul Salam Cooperative Housing Society, Sector 31 Korangi"|||bus_stop||||||
+node|5333760819|24.8292212|67.1547958|"M Area, Sector 35 Korangi"|||bus_stop||||||
+node|5333760820|24.8286825|67.1125288|"KDA Employees Society, Sector 31 Korangi"|||bus_stop||||||
+node|5333760825|24.9002501|67.0201726|"Pak Colony, SITE"|||bus_stop||||||
+node|5333760826|24.9203850|67.0770250|"A One Cootages, FB Area"|||bus_stop||||||
+node|5333760827|24.9226679|67.0775538|"Railway Colony, FB Area"|||bus_stop||||||
+node|5333760828|24.9210171|67.0755264|"Asif Nagar, FB Area"|||bus_stop||||||
+node|5333760829|24.9370743|67.0869596|FB Area Indusrial Zone|||bus_stop||||||
+node|5333760830|24.9613695|67.0848329|"Shafiq Colony,Block 22 FB Area"|||bus_stop||||||
+node|5333760833|24.9834401|67.0472181|"Rasheedabad, Gadap Town"|||bus_stop||||||
+node|5333760843|25.0046327|67.0439335|"Wapda Employees Coopreative Society, Gadap Town"|||bus_stop||||||
+node|5333760848|25.0118453|67.0227421|"Haji Malak Goth, Gadap Town"|||bus_stop||||||
+node|5333760850|25.0030513|67.0331090|"Moon City Phase 2, Gadap Town"|||bus_stop||||||
+node|5333760858|24.9518893|67.0287900|"Islamia Colony, SITE"|||bus_stop||||||
+node|5333760859|24.9456648|67.0265919|"Qasba Colony, SITE"|||bus_stop||||||
+node|5333760867|24.9189599|66.9877365|"Zia Colony, Baldia Town"|||bus_stop||||||
+node|5333760871|24.9596103|67.1720410|"Yar Muhammad Goth, Scheme 33"|||bus_stop||||||
+node|5333760880|24.9054931|67.1085272|"Bukhari Town, Gulshan e Iqbal"|||bus_stop||||||
+node|5333760881|24.9100772|67.1144009|"Pakistan Railway Coperative Housnig Society, Faisal Cantt"|||bus_stop||||||
+node|5333760883|24.9138652|67.1188041|"KDA Homes, Faisal Cantt"|||bus_stop||||||
+node|5334673029|24.9330118|67.1557205|Architechs Society Block 8 Gulistan e Johar|||bus_stop||||||
+node|5334673036|24.9219450|67.1769056|Gulshan-e-Roomi|||bus_stop|platform|||||
+node|5334673038|24.9311424|67.1740465|Rafi Down Town|||bus_stop||||||
+node|5334673040|24.9352688|67.1485242|Decent Houses Gulistan e Johar Block 7|||bus_stop||||||
+node|5334673041|24.9340655|67.1114566|NED University Gulshan e Iqbal|||bus_stop||||||
+node|5334673044|24.9250696|67.0829439|Abid Town Gulshan e Iqbal|||bus_stop||||||
+node|5334673048|24.8903327|67.0559030|Ghousia Colony Gulshan e Iqbal|||bus_stop||||||
+node|5334673054|24.8886584|67.0499338|عثمانیہ کالونی جمشید ٹاؤن|عثمانیہ کالونی جمشید ٹاؤن|Usmania Colony Jamshed Town|bus_stop|platform|||||
+node|5334673055|24.8868168|67.0507886|Goverment Quaters Jail Road Jamshed Town|||bus_stop||||||
+node|5334673060|24.9023580|67.0978392|Shanti Nagar Gulshan e Iqbal|||bus_stop||||||
+node|5334673061|24.9032396|67.1083766|Central Goverment Employes Cooperrative Housing Society|||bus_stop||||||
+node|5334673066|24.9256887|67.1516775|Bakhtawar Goth Gulshan e Iqbal|||bus_stop||||||
+node|5334673068|24.8795986|67.0506575|Muslimabad Jamshed Town|||bus_stop||||||
+node|5334673069|24.9288466|67.1401365|Sheh Muhammad Bacloch Goth|||bus_stop||||||
+node|5334673070|24.9259807|67.1433382|Qalandarabad Colony Gulshan e Iqbal|||bus_stop||||||
+node|5334673071|24.9271465|67.1375860|Mughal Hazara Goth Gulshan e Iqbal|||bus_stop||||||
+node|5334673072|24.9157772|67.1454389|Muhibabad Gulshan e Iqbal|||bus_stop||||||
+node|5334673074|24.8650810|67.0899508|Falcon Complex Faisal Cantt|||bus_stop||||||
+node|5334673077|24.8795785|67.1379430|Shah Faisal Block 4|||bus_stop||||||
+node|5334673078|24.8735899|67.1326064|Shah Faisal Block 5|||bus_stop||||||
+node|5334673079|24.8813009|67.1488048|Shah Faisal Block 2|||bus_stop||||||
+node|5334673080|24.8907090|67.1410084|PIA Township Faisal Cantt|||bus_stop||||||
+node|5334673088|24.8897411|67.1559208|CAA Colony Faisal Cantt|||bus_stop||||||
+node|5334673089|24.8874620|67.1555009|PIA Twp|||bus_stop||||||
+node|5335025024|24.9303242|67.0611584|Mukka Chowk|||bus_stop||||||
+node|5335088902|24.9385256|67.0614313|Qabail Colony|||bus_stop||||||
+node|5335088910|24.9036027|67.1889821|Model Colony Malir|||bus_stop||||||
+node|5335088911|24.8916092|67.1923489|Saudabad Malir|||bus_stop||||||
+node|5335088912|24.9006079|66.9918584|SITE Industrial Zone|||bus_stop||||||
+node|5335088913|24.9612349|67.0305112|Mangopir Marbal Industry Area|||bus_stop||||||
+node|5335088920|24.8128979|67.1071859|Korangi Sector 38|||bus_stop||||||
+node|5335089321|24.8568177|67.1501578|Korangi Sector 10|||bus_stop||||||
+node|5335089323|24.8502503|67.1700853|Korangi Sector 20|||bus_stop||||||
+node|5335089324|24.8352428|67.0956145|Korangi Sector 15|||bus_stop||||||
+node|5335089325|24.8468594|67.1722323|Korangi Sector 28|||bus_stop||||||
+node|5335089327|24.8256358|67.1125600|Korangi Sector 31|||bus_stop||||||
+node|5335089328|24.8465313|67.1076546|Korangi Sector 6|||bus_stop||||||
+node|5335089329|24.8392412|67.1094664|Korangi Sector 16|||bus_stop||||||
+node|5335089330|24.8336392|67.1557809|Korangi Sector 35|||bus_stop||||||
+node|5335089331|24.8433820|67.1535837|Korangi Sector 27|||bus_stop||||||
+node|5335089333|24.8286751|67.1297316|Korangi Sector 32|||bus_stop||||||
+node|5335089334|24.8102427|67.1418013|Korangi Sector 48|||bus_stop||||||
+node|5335089335|24.8137795|67.1426927|Abdullah Shah Noorani Pahari Colony|||bus_stop||||||
+node|5335089336|24.8529897|67.1354884|Korangi Sector 8|||bus_stop||||||
+node|5335089337|24.8213599|67.1424914|Korangi Sector 41|||bus_stop||||||
+node|5335089338|24.8311077|67.1405360|Korangi Sector 33|||bus_stop||||||
+node|5335089339|24.8235719|67.1580333|Korangi Sector 43|||bus_stop||||||
+node|5335089340|24.8166080|67.1187981|Korangi Sector 39|||bus_stop|platform|||||
+node|5335089341|24.8320933|67.1455541|Korangi Sector 34|||bus_stop||||||
+node|5335089343|24.8122352|67.1531444|Korangi Sector 49|||bus_stop||||||
+node|5335089344|24.8141196|67.1602394|Korangi Sector 50|||bus_stop||||||
+node|5335089345|24.8175970|67.1768691|Korangi Sector 51|||bus_stop||||||
+node|5335089347|24.8414812|67.1447857|Korangi Sector 26|||bus_stop||||||
+node|5335089348|24.8370585|67.1727721|Korangi Sector 36|||bus_stop||||||
+node|5335089349|24.8432999|67.1945530|Korangi Sector 37|||bus_stop||||||
+node|5335089350|24.8193663|67.1317706|Korangi Sector 40|||bus_stop||||||
+node|5335089351|24.8226166|67.1490985|Korangi Sector 42|||bus_stop||||||
+node|5335089352|24.8517177|67.1417937|Korangi Sector 9|||bus_stop||||||
+node|5335089353|24.9484562|67.0981372|Scheme 33 Sector 13 A|||bus_stop||||||
+node|5335089354|24.9887458|67.1462651|Scheme 33 Sector 49 A|||bus_stop||||||
+node|5335089355|24.9592322|67.1843542|Scheme 33 Sector 45|||bus_stop||||||
+node|5335089356|24.9528385|67.1318958|Scheme 33 Sector 28|||bus_stop||||||
+node|5335089357|24.9419221|67.1451918|Scheme 33 Sector 33|||bus_stop||||||
+node|5335089358|24.9608137|67.1336026|Scheme 33 Sector 24 A|||bus_stop||||||
+node|5335147531|24.9450834|67.1542581|Scheme 33 Sector 34 A|||bus_stop||||||
+node|5335147532|24.9519931|67.1575533|Scheme 33 Sector 35 A|||bus_stop||||||
+node|5335147533|24.9722705|67.1461617|Scheme 33 Sector 26 A|||bus_stop||||||
+node|5335147534|24.9586124|67.1624953|Scheme 33 Sector 36 A|||bus_stop||||||
+node|5335147535|24.9774049|67.1495154|Scheme 33 Sector 27|||bus_stop||||||
+node|5335147536|24.9846534|67.1405199|Scheme 33 Sector 21 A|||bus_stop||||||
+node|5335147537|24.9809180|67.1561020|Scheme 33 Sector 48 A|||bus_stop||||||
+node|5335147538|24.9604223|67.1476697|Scheme 33 Sector 30 A|||bus_stop||||||
+node|5335147539|24.9654298|67.1541685|Scheme 33 Sector 31 A|||bus_stop||||||
+node|5335147540|24.9703298|67.1580190|Scheme 33 Sector 32 A|||bus_stop||||||
+node|5335147541|24.9754183|67.1647075|Scheme 33 Sector 47 A|||bus_stop||||||
+node|5335147542|24.9747757|67.2022725|Gulshan e Mehran Scheme 33|||bus_stop||||||
+node|5335147544|25.0024145|67.1124589|Ahsanabad Scheme 33|||bus_stop|platform|||||
+node|5335147545|24.9844216|67.1203088|Scheme 33 Sector 6 A|||bus_stop||||||
+node|5336363538|24.9233767|67.0680364||||bus_stop||||||
+node|5336782581|24.8950805|66.9882904|سندھ انڈسٹریل ٹریڈنگ اسٹیٹ|سندھ انڈسٹریل ٹریڈنگ اسٹیٹ|Sindh Industrial Trading Estate||station||station|کراچی سرکلر ریلوے||
+node|5336857784|25.0166601|67.1053346|SITE Scheme 33|||bus_stop||||||
+node|5336857785|24.9812253|67.0997199|Scheme 33 Sector 11|||bus_stop||||||
+node|5336857786|24.9568045|67.0898157|Scheme 33 Sector 1 A|||bus_stop||||||
+node|5336857789|25.0131259|67.1894109|Teaser Town Sector 12|||bus_stop||||||
+node|5336857808|25.0224758|67.2089415|Teaser Town Sector 16|||bus_stop||||||
+node|5336857809|25.0254477|67.2016255|Teaser Town Sector 17|||bus_stop||||||
+node|5336857810|25.0239680|67.1923857|Teaser Town Sector 18|||bus_stop||||||
+node|5336857811|25.0254788|67.1767934|Teaser Town Sector 25|||bus_stop||||||
+node|5336857817|25.0143162|67.2004423|Teaser Town Sector 14|||bus_stop||||||
+node|5336857820|25.0074416|67.2008123|Teaser Town Sector 13|||bus_stop||||||
+node|5336859521|25.0213473|67.1833232|Teaser Town Sector 11|||bus_stop||||||
+node|5336859529|25.0296171|67.0928569|Teaser Town Sector 33|||bus_stop||||||
+node|5336859531|25.0599792|67.1146336|Teaser Town Sector 54|||bus_stop||||||
+node|5336859532|25.0487164|67.1052476|Teaser Town Sector 36|||bus_stop||||||
+node|5339035672|24.9043642|67.1246834|"Gulshan Bangalows, Faisal Cantt"|||bus_stop||||||
+node|5339035674|24.9001406|67.1830052|"Jokhio Goth, Malir"|||bus_stop||||||
+node|5339035686|24.9090633|67.2246898|"Arab Khaskhaily Goth, Malir"|||bus_stop||||||
+node|5339035687|24.9084636|67.2221936|"Khokrapar No 5, Malir"|||bus_stop||||||
+node|5339035689|24.9061071|67.2145182|"Khokrapar No 3, Malir"|||bus_stop||||||
+node|5339035690|24.9042836|67.2119217|"Khokrapar No 2, Malir"|||bus_stop||||||
+node|5339035696|24.9097235|67.2129265|"Nazeer Town, Malir"|||bus_stop||||||
+node|5339035697|24.9093108|67.2090158|"Gilanabad, Malir"|||bus_stop||||||
+node|5339035698|24.9066996|67.2072362|"Pak Kausar Town, Malir"|||bus_stop||||||
+node|5339035699|24.9044071|67.2043409|"Kausar Town, Malir"|||bus_stop||||||
+node|5339035700|24.9032109|67.2016698|"Indus Mehran, Malir"|||bus_stop||||||
+node|5339035702|24.8988393|67.1984047|"Saudabad No 2, Malir"|||bus_stop||||||
+node|5339035703|24.9028971|67.1971371|"Saudabad No 1, Malir"|||bus_stop||||||
+node|5339035704|24.9013217|67.2046145|"Lal Quarters, Malir"|||bus_stop||||||
+node|5339035706|24.9001057|67.2055606|"Sabir Colony, Malir"|||bus_stop||||||
+node|5339035714|24.8839277|67.1972302|"Jaffer e Tayyar Society, Malir"|||bus_stop||||||
+node|5339035719|24.8904933|67.1949461|"G Area Saudabad, Malir"|||bus_stop||||||
+node|5339035720|24.8937132|67.1976247|"H Area Saudabad, Malir"|||bus_stop||||||
+node|5339035921|24.8956050|67.1942184|"D Area Saudabad, Malir"|||bus_stop||||||
+node|5339035922|24.8928986|67.1923208|"C Area Saudabad, Malir"|||bus_stop||||||
+node|5339035923|24.8894826|67.1892295|"Shadman Town, Malir"|||bus_stop||||||
+node|5339035924|24.8866916|67.1904950|"Sahib Dad Goth, Malir"|||bus_stop||||||
+node|5339035925|24.8858871|67.1879954|"Christan Colony, Malir"|||bus_stop||||||
+node|5339035926|24.8832052|67.1914345|"Abdia Centre, Malir"|||bus_stop||||||
+node|5339035928|24.8827562|67.1893745|A1 Area Malir Colony|||bus_stop||||||
+node|5339035930|24.8865671|67.1843050|"Mumtaz Nagar B Area , Malir"|||bus_stop||||||
+node|5339035931|24.8882446|67.1849812|"Hussainabad B Area, Malir"|||bus_stop||||||
+node|5339035932|24.8857452|67.1818773|"Al Amin Society, Malir"|||bus_stop||||||
+node|5339035934|24.8961103|67.1819860|"Alamgir Coopreative Housing Society, Malir"|||bus_stop||||||
+node|5339035940|24.8867951|67.1704275|"T and T Colony, Faisal Cantt"|||bus_stop||||||
+node|5339035948|24.8690795|67.2031562|"Malir Homes, Malir"|||bus_stop||||||
+node|5339107800|24.8738733|67.1637225|عظیم پورہ، شاہ فیصل|عظیم پورہ، شاہ فیصل|"Azeem Pura, Shah Faisal"|bus_stop|platform|||||
+node|5339107805|24.8778654|67.1784410|"Moinabad, Shah Faisal"|||bus_stop||||||
+node|5339107811|24.8804212|67.1752687|"Rafah e Aam Society, Shah Faisal"|||bus_stop||||||
+node|5339107817|24.8809156|67.1606922|"Green Town, Shah Faisal"|||bus_stop||||||
+node|5339107818|24.8852148|67.1539945|"Al Falah Society, Shah Faisal"|||bus_stop||||||
+node|5339107819|24.8803678|67.1325616|Sadat Colony|||bus_stop||||||
+node|5339107820|24.8799488|67.1351119|Pak Sadat Colony|||bus_stop||||||
+node|5339108621|24.8835251|67.1365798|Nata Khan Goth|||bus_stop||||||
+node|5339108655|24.8955358|66.8929611|Hawksbay Scheme 42 Sector 10|||bus_stop||||||
+node|5339108658|24.8836484|66.9071550|Hawksbay Scheme 42 Sector 3 A|||bus_stop||||||
+node|5339108676|24.8844665|66.8652169|Hawksbay Scheme 42 Sector 28|||bus_stop||||||
+node|5339108681|24.8880231|66.8567469|Hawksbay Scheme 42 Sector 31|||bus_stop||||||
+node|5339108682|24.8942478|66.8536566|Hawksbay Scheme 42 Sector 31|||bus_stop||||||
+node|5339108688|24.9036452|66.8644797|Hawksbay Scheme 42 Sector 19|||bus_stop||||||
+node|5339108691|24.8996129|66.8663460|Hawksbay Scheme 42 Sector 18|||bus_stop||||||
+node|5339148353|24.9992129|67.1720261|Scheme 33|||bus_stop||||||
+node|5339148354|24.8355964|67.3395044|"Downstream Industrial Estate, Bin Qasim"|||bus_stop||||||
+node|5339148364|24.8864721|67.4348335|New Malir Housing Scheme 1 Sector 15|||bus_stop||||||
+node|5339148375|24.8748310|67.4073845|New Malir Housing Scheme 1 Sector 6|||bus_stop|platform|||||
+node|5339148377|24.8678119|67.4078652|New Malir Housing Scheme 1 Sector 11|||bus_stop|platform|||||
+node|5339148382|24.8722974|67.3631119|Gulshan e Hadeed Phase 2|||bus_stop||||||
+node|5339148383|24.8687120|67.3571060|"K Electric Colony Hadeed, Bin Qasim"|||bus_stop||||||
+node|5339148384|24.8688336|67.3522233|Gulshan e Hadeed Phase 1|||bus_stop||||||
+node|5339148385|24.8664852|67.3617761|Concordia College|||bus_stop||||||
+node|5339148387|24.8338160|67.3039695|Port Qasim North Western Industrial Zone|||bus_stop||||||
+node|5339148388|24.8135754|67.4123809|Port Qasim Eastern Industrial Zone|||bus_stop||||||
+node|5339148389|24.8787296|67.3699986|Gulshan e Hadeed Phase 3|||bus_stop||||||
+node|5339148390|24.8691966|67.3381208|Steel Town|||bus_stop||||||
+node|5339148393|25.0571379|67.3632878|Bahria Paradise|||bus_stop||||||
+node|5339148394|24.9940186|67.3168881|Bahria Town|||bus_stop|platform|||||
+node|5339148395|24.9908103|67.1104773|Scheme 33 Sector 7 B|||bus_stop||||||
+node|5339148396|24.9953765|67.1389357|Scheme 33 Sector 51 B|||bus_stop||||||
+node|5339148397|24.9884573|67.1315769|Scheme 33 Sector 8 B|||bus_stop||||||
+node|5339148398|24.9809484|67.1242129|Scheme 33 Sector 6 B|||bus_stop||||||
+node|5339148399|24.9734607|67.1173253|Scheme 33 Sector 4 B|||bus_stop||||||
+node|5339148400|24.9770046|67.1192506|Scheme 33 Sector 4|||bus_stop||||||
+node|5339148402|24.9609858|67.1044330|Intercity Bus station|||bus_stop|platform|||||
+node|5339148403|24.9617477|67.0973157|Scheme 33 Sector 2 C|||bus_stop||||||
+node|5339148404|24.9617997|67.0955908|Scheme 33 Sector 1 C|||bus_stop||||||
+node|5339148405|24.9520298|67.0932709|Scheme 33 Sector 1 B|||bus_stop||||||
+node|5339148406|24.9760424|67.1409101|Scheme 33 Sector 26 B|||bus_stop||||||
+node|5339148407|24.9850669|67.1509470|Scheme 33 Sector 48 B|||bus_stop||||||
+node|5340469154|25.0618028|67.0963863|Teaser Town Sector 49|||bus_stop||||||
+node|5340469155|25.0391202|67.1039242|Teaser Town Sector 35|||bus_stop||||||
+node|5340469158|25.0479670|67.0930640|Teaser Town Sector 37|||bus_stop||||||
+node|5340469159|25.0394258|67.0930473|Teaser Town Sector 34|||bus_stop||||||
+node|5340469164|25.0229006|67.1277329|Gulshan e Maymar Sector X|||bus_stop||||||
+node|5340469165|25.0192466|67.1201854|Gulshan e Maymar Sector V|||bus_stop||||||
+node|5340469166|24.9582275|67.1512950|Scheme 33 Sector 35 B|||bus_stop||||||
+node|5340469167|24.9632644|67.1569726|Scheme 33 Sector 36 B|||bus_stop||||||
+node|5340469168|24.9671663|67.1610943|Scheme 33 Sector 37 B|||bus_stop||||||
+node|5340469169|24.9731659|67.1198057|Scheme 33 Sector 18 B|||bus_stop||||||
+node|5340469170|24.9789218|67.1253257|Sector 19/B|||bus_stop||||||
+node|5340469171|24.9843107|67.1305298|Scheme 33 Sector 20 B|||bus_stop||||||
+node|5340469172|24.9890161|67.1350518|Scheme 33 Sector 21 B|||bus_stop||||||
+node|5340469173|24.9710536|67.1278544|Scheme 33 Sector 18 C|||bus_stop||||||
+node|5340469174|24.9642006|67.1372910|Scheme 33 Sector 25 B|||bus_stop||||||
+node|5340469175|24.9716807|67.1278789|Scheme 33 Sector 19 C|||bus_stop||||||
+node|5340469176|24.9635438|67.1373761|Scheme 33 Sector 24 B|||bus_stop||||||
+node|5340469177|24.9666811|67.1149610|Scheme 33 Sector 17 B|||bus_stop||||||
+node|5340469178|24.9597604|67.1061885|Scheme 33 Sector 15 B|||bus_stop||||||
+node|5340469179|24.9526562|67.1040010|Scheme 33 Sector 15 C|||bus_stop||||||
+node|5340469180|24.9520661|67.1021984|Scheme 33 Sector 13 C|||bus_stop||||||
+node|5340469181|24.9522166|67.0955332|Scheme 33 Sector 13 B|||bus_stop||||||
+node|5340469183|24.9682982|67.1503766|Scheme 33 Sector 31 B|||bus_stop||||||
+node|5340469184|24.9729585|67.1549636|Scheme 33 Sector 32 B|||bus_stop||||||
+node|5340469185|24.9775687|67.1601100|Scheme 33 Sector 47 B|||bus_stop||||||
+node|5340469186|24.9532396|67.1448213|Scheme 33 Sector 29 B|||bus_stop||||||
+node|5340469187|24.9587518|67.1503460|Scheme 33 Sector 30 C|||bus_stop||||||
+node|5340469188|24.9639255|67.1555728|Scheme 33 Sector 31 C|||bus_stop||||||
+node|5340469189|24.9682746|67.1607829|Scheme 33 Sector 32 C|||bus_stop||||||
+node|5340469190|24.9716265|67.1670877|Scheme 33 Sector 47 C|||bus_stop||||||
+node|5340469191|24.9509437|67.1473332|Scheme 33 Sector 34 B|||bus_stop||||||
+node|5340469192|24.9925202|67.1409108|Scheme 33 Sector 49 B|||bus_stop||||||
+node|5340602456|24.9046667|67.1135863|Johar Mor|||bus_stop||||||
+node|5344373764|24.9246286|67.1420458|Gulistan e Johar Block 10|||bus_stop||||||
+node|5347141028|24.8862198|67.0289724|Hamid Colony|||bus_stop||||||
+node|5475920231|24.8626121|67.3200933|Gulistan e Faisal Bus Stop||||station|bus_station||||
+node|5638623445|24.8613400|67.3504672|Hadeed Mor|||||bus_station||||
+node|5763191482|24.8433340|67.0377796|Daewoo Express Pick & Drop|||bus_stop|platform|||||
+node|5893587118|24.8853875|67.1681466|Wireless Gate Bus Stop|||bus_stop|platform|||||
+node|5893613282|24.8872366|67.1275410|ڈرگ روڈ|ڈرگ روڈ|Drigh Road|bus_stop|platform|||||
+node|5893613283|24.8764489|67.1011936|Karsaz Market|||bus_stop|platform|||||
+node|6302006471|24.9573033|67.0678526|Buffer Zone Last Stop||||station|bus_station||7-C||
+node|6423498070|24.8733200|67.3657721|Green Bus Stop||||platform|||||
+node|6539484548|24.8435491|67.0198123|Gul e Ishtiaq coach||||station|bus_station||||
+node|6552827848|24.8411848|67.0176016|Shafiq Brothers Coach Service||||platform|||||
+node|6894511385|24.8287839|67.0198755||||bus_stop|platform|||||
+node|6900316385|24.8552533|67.2129090|Minibus to Thatta City|||bus_stop||||||
+node|7179248088|24.9103126|67.1949874|Niazi Hotel|||bus_stop||||||
+node|7218483923|24.8923170|67.0533765|8A bus stop|||bus_stop|platform|||||
+node|7293187686|24.9562943|66.9266702|Inter City Bus Terminal|||||bus_station||||
+node|7293188185|24.9238363|66.9718457|Last bus stop for mini coch rout no. N4|||bus_stop||||||
+node|8294565795|24.9215672|67.0357949|نارتھ ناظم آباد||North Nazimabad||stop_position||stop|Karachi Circular Railway||
+node|8294603458|24.8476897|66.9901492|Tower/KPT||||station||station|Karachi Circular Railway||
+node|8294610400|24.9159474|67.0203973|اورنگی|اورنگی|Orangi||station||station|کراچی سرکلر ریلوے||
+node|8294621168|24.9052186|67.0018707|منگھوپیر||Manghopir||station||station|Karachi Circular Railway||
+node|8294625989|24.8680359|66.9801817|لیاری|لیاری|Layari||station||station|کراچی سرکلر ریلوے||
+node|8294625990|24.8744489|66.9689590|بلدیہ|بلدیہ|Baldia||station||station|کراچی سرکلر ریلوے||
+node|8294625991|24.8829665|66.9726217|شاہ عبداللطیف|شاہ عبداللطیف|Shah Abdul Latif||station||station|کراچی سرکلر ریلوے||
+node|8423212826|24.9088053|67.0784111|گیلانی|گیلانی|Gilani||stop_position||stop|کراچی سرکلر ریلوے||
+node|8428197373|24.8621502|67.0690638|Lal Kothi Stop|||bus_stop|platform|||||
+node|8428197386|24.8712387|67.0896386|Awami Markaz Stop|||bus_stop|platform|||||
+node|8428207421|24.8870740|67.1433627|Natha Khan Stop|||bus_stop|platform|||||
+node|8474862577|24.9266201|67.0332478|بورڈ آفش اسٹیشن||Board Office BRT Station||station|bus_station||||
+node|8474862578|24.9372232|67.0426940|حیدری مارکیٹ اسٹیشن||Hyderi BRT Station||station|bus_station||||
+node|8474862579|24.9455728|67.0501097|فائیو اسٹار چورنگی اسٹیشن||Five Star BRT Station||station|bus_station||||
+node|8474862580|24.9503631|67.0543769|جمعہ بازار اسٹیشن||Jummah Bazar BRT Station||station|bus_station||||
+node|8474862581|24.9585285|67.0615437|ارم شاپنگ ایمپوریم اسٹیشن||Erum BRT Station||station|bus_station||||
+node|8474862599|24.9664125|67.0669937|ناگن چورنگی اسٹیشن||Nagan Chowrangi BRT Station||station|bus_station||||
+node|8474880959|24.8812685|67.0381201|پٹیل پاڑہ اسٹیشن||Patel Para BRT Station||station|bus_station||||
+node|8474880960|24.8857553|67.0345338|لسبیلہ اسٹیشن||Lasbela Chowk BRT Station||station|bus_station||||
+node|8474880961|24.8947825|67.0307037|سینیٹری مارکیٹ اسٹیشن|سینیٹری مارکیٹ اسٹیشن|Sanitary Market BRT Station||station|bus_station||||
+node|8474880962|24.8997563|67.0304093|ناظم آباد نمبر ۱ اسٹیشن||Nazimabad 1 BRT Station||station|bus_station||||
+node|8474880963|24.9058174|67.0309416|ماڈل پارک اسٹیشن||Model Park BRT Station||station|bus_station||||
+node|8474880964|24.9169222|67.0312908|بقائی اسٹیشن||Baqai BRT Station||station|bus_station||||
+node|8637079789|25.0171739|67.0640515|||||station|bus_station||||
+node|8637079791|25.0235505|67.0636461|عبدﷲ چوک اسٹیشن||Abdullah Chowk BRT Station||station|bus_station||||
+node|8637079792|25.0173589|67.0640018|کے ڈی اے چورنگی اسٹیشن||KDA Chowrangi BRT Station||station|bus_station||||
+node|8637079793|25.0110843|67.0643746|کریمی چورنگی اسٹیشن||Karimi Chowrangi BRT Station||station|bus_station||||
+node|8637079794|25.0050318|67.0647320|سرجانی چورنگی اسٹیشن||Surjani Chowrangi BRT Station||station|bus_station||||
+node|8637079795|24.9985142|67.0651364|منٹ چورنگی اسٹیشن  2||2 Minute Chowrangi BRT Station||station|bus_station||||
+node|8637079796|24.9917870|67.0655695|روڈ 2400 اسٹیشن||2400 Road BRT Station||station|bus_station||||
+node|8637079797|24.9840106|67.0660738|پاور ہاؤس چورنگی اسٹیشن||Power House Chowrangi BRT Station||station|bus_station||||
+node|8637079798|24.9779285|67.0665226|روڈ 4200 اسٹیشن||Road 4200 BRT Station||station|bus_station||||
+node|8637079799|24.9734821|67.0667382|یو پی موڑ اسٹیشن||UP Morr BRT Station||station|bus_station||||
+node|8637095180|24.8721806|67.0355231|Numaish Green Line Station (BRT)||Numaish Green Line Station (BRT)||station|bus_station||||
+node|8637095181|24.8702851|67.0331511|KGA Ground BRT Station||||station|bus_station||||
+node|10137799618|24.8794843|66.9956482|میراں ناکہ|میراں ناکہ|Miran Naka||station|bus_station||||
+node|11739380671|24.8345307|67.0995630|Brookes Chowrangi|||bus_stop||||||
+node|12025425876|24.9006091|67.1157070|Millenium Mall Bus Stop|||bus_stop|platform|||||
+node|12126146585|24.8211272|67.1280661|Nasir Colony Bus Stop|||bus_stop|platform|||||
+node|12126274344|24.8204627|67.1251142|Nasir Jump|||bus_stop|platform|||||
+node|12126380204|24.9450511|67.0857126|Sohrab Goth Bus Stop||||station|bus_station||||
+node|12126389263|24.9447860|67.0851788|Adil Shah Transport||||station|bus_station||||
+node|12144299481|24.8220508|67.1328598|Korangi 1 bus Stop|||bus_stop|platform|||||
+node|12144406337|24.8214840|67.1296182|Chakragoth Bus Stop|||bus_stop|platform|||||
+node|12147689037|24.8997968|67.0506467|Nursery Stop|||bus_stop|platform|||||
+node|12147847014|24.9000835|67.0449142|Daak Khana Bus Stop|||bus_stop|platform|||||
+node|12151359833|24.8358482|67.1382883|MTS (maaz transport service )||||station|bus_station||||
+node|12159672857|24.9100931|67.0398041|Gujjar Nalah|||bus_stop|platform|||||
+node|12165192587|24.9356355|67.0769088|Al Qayyum Transport||||station|bus_station||||
+node|12170299018|24.8957450|67.0305620|Gulbahar No. 2||||station|bus_station||||
+node|12170300206|24.8320850|67.1444614|Bismillah Stop|||bus_stop|platform|||||
+node|12176481255|24.8866060|67.0334917|Isb Express Bus Stand|||bus_stop|platform|||||
+node|12176597011|24.8866353|67.0333818|Bala Gujjar Daewoo Office|||bus_stop|platform|||||
+node|12176633511|24.8861862|67.0340255|Bala Gujaar Bus Stop|||bus_stop|platform|||||
+node|12176635547|24.8862324|67.0339343|Iftikhar express|||bus_stop|platform|||||
+node|12176645813|24.8863249|67.0338485|||||station|bus_station||Gull E Ishtyq Coch||
+node|12176663494|24.8866956|67.0340231|Waraich express karachi|||bus_stop|platform|||||
+node|12176663553|24.8857871|67.0345011|Lasbela Chowk|||bus_stop|platform|||||
+node|12176667729|24.8857267|67.0344823|Green line bus stop|||bus_stop|platform|||||
+node|12176667746|24.8864034|67.0342320|Shahzada Express Lasbella|||bus_stop|platform|||||
+node|12180000604|24.9112265|67.0498402|Lalu khet Bus Stop.||||station|bus_station||||
+node|12180188762|24.8810081|67.0382890|Patel Para (Gurumandir)|||bus_stop|platform|||||
+node|12183340776|24.8800959|67.0390902|Gurumandar|||bus_stop|platform|||||
+node|12183370529|24.8813600|67.0380082|Green Line Guru Mandir Bus Stop|||bus_stop|platform|||||
+node|12183918652|24.8778312|67.0360228|Britto Rd|||bus_stop|platform|||||
+node|12183988205|24.9450199|67.0834407|Gulshan e Mustafa Fire Station||||station|||||
+node|12186159680|24.9187846|67.1522506|Bhittai Transport|||bus_stop|platform|||||
+node|12186362621|24.9181349|67.1519130|D3 Stop|||bus_stop|platform|||||
+node|12187926928|24.8738467|67.0216865|Universal Motor Pvt Ltd.(UML)||||station|bus_station||||
+node|12189786664|24.8764895|67.0481214|Daewoo Fastex courier & Logistics||||station|bus_station||||
+node|12196822743|24.9297973|67.0203924|Orange Line BRT Bus Depot||||station|bus_station||||
+node|12201973186|24.9268979|67.0300815|Jinnah University|||bus_stop|platform|||||
+node|12202058448|24.9197388|66.9958344|MZ Transport||||station|bus_station||||
+node|12202095118|24.9214991|67.0213935|Chandni Chowk Bus Stop||||station|bus_station||||
+node|12205267937|24.9166646|67.0217818|1-B Last Bus Stop||||station|bus_station||||
+node|12205325859|24.9166195|67.0217723|Bara Maidaan||||station|bus_station||||
+node|12205332270|24.9159508|66.9748354|G3 Bus Stop|||bus_stop|platform|||||
+node|12205338658|24.9163643|66.9749950|G-9 Last Bus Stop|||bus_stop|platform|||||
+node|12205359810|24.9161260|66.9748663|C-25 Last Bus Stop|||bus_stop|platform|||||
+node|12205470023|24.9143602|67.0221186|Chota Maidaan||||station|bus_station||||
+node|12211047422|24.9050839|67.0017627|Manghopir Station KCR||||station|bus_station||||
+node|12211057416|24.9030948|67.0025261|Madasan Chowrangi||||station|bus_station||||
+node|12211489885|24.9758123|66.9919172|Asif Transport Service|||bus_stop|platform|||||
+node|12211541918|24.8643335|67.2084257|Sindh Alamdar Chowk|||bus_stop|platform|||||
+node|12211887344|24.9784567|66.9915479|Wali Afridi Coach Last Stop|||bus_stop|platform|||||
+node|12211899146|24.9783444|66.9915479|Khush Hal Coach Last Stop|||bus_stop|platform|||||
+node|12211905976|24.9786556|66.9915195|1-H Last Bus Stop|||bus_stop|platform|||||
+node|12211941320|24.9788561|66.9914948|Madina Coach Last Stop|||bus_stop|platform|||||
+node|12213973360|24.9146926|67.0506642|Javed Saleem Coach Service|||bus_stop|platform|||||
+node|12222477082|24.8986465|67.0601097|ZB TRANSPORT||||station|bus_station||||
+node|12223984308|24.8724215|67.0356954|Green Line Bus|||bus_stop|platform|||||
+node|12224060245|24.8769138|67.0345715||||bus_stop|platform|||||
+node|12224078982|24.8928412|67.0631542|Faizan e Madina Bus Stop|||bus_stop|platform|||||
+node|12224621530|24.8892387|66.9826396|Shershah Bus Stop شیرشاہ بس اسٹاپ||||station|bus_station||||
+node|12238490029|24.8870712|67.0475509|Khan service||||station|bus_station||||
+node|12238490049|24.8885808|67.0508425|ABS rental & transport services||||station|bus_station||||
+node|12246614805|24.8907693|66.9849790|Mini Bus Stop||||station|bus_station||||
+node|12250220461|24.8832227|67.0471389|Atta-e-Ghazi transport service®||||station|bus_station||||
+node|12250544749|24.8946480|66.9872078|S.I.T.E Station||||station||station|||
+node|12250714974|24.9267014|66.9683401|Bismillah Chowk Bus Stop||||station|bus_station||||
+node|12252415889|24.9236145|66.9721975|N-4 Bus Stop بس اسٹاپ||||station|bus_station||||
+node|12252427102|24.9234208|66.9719725|N-4 Last Bus Stop||||station|bus_station||||
+node|12254405624|24.9307587|66.9846859|Faqir Colony Road Bus Stop||||station|bus_station||||
+node|12254806091|24.9298887|66.9817033|Karachi Bus Terminal||||station|bus_station||||
+node|12254977492|24.8586926|67.0206293|Frere Market bus stop|||bus_stop|platform|||||
+node|12258021596|24.8583587|67.0253459|Al Saif Daewoo Express|||bus_stop|platform|||||
+node|12258193302|24.9247643|66.9706142|Baldia Town Bus Stop||||station|bus_station||||
+node|12258206960|24.9249843|66.9712400|مشرق کوچ اسٹاپ||||station|bus_station||||
+node|12258917642|24.9195426|66.9636301|Sector 5J Bus Stop||||station|bus_station||||
+node|12259011016|24.9199449|66.9632870|RUBI SANEMA STATION||||station|bus_station||||
+node|12262742491|24.8767606|67.0462111|Ghulam Nabi Water Contractor (Water Tanker)||||station|bus_station||||
+node|12273316681|24.8685111|67.0311995|Faisal Movers Taj Complex Terminal||||station|bus_station||||
+node|12276862176|24.9184092|66.9710966|X_4 Bus Stop Feeder S & G M ALi||||station|bus_station||||
+node|12276896859|24.9189364|66.9723816|Buses Point||||station|bus_station||||
+node|12276918347|24.9188020|66.9721708|Shaheen express baldia town19/D Karachi (19-D شاہین ایکسپریس مہاجر کیمپ)||||station|bus_station||||
+node|12278517950|24.9148766|66.9639387|Anjam Colony Bus Stop||||station|bus_station||||
+node|12284910955|24.9142362|66.9528962|Malik Hanzalah Enterprises||||station|bus_station||||
+node|12297042690|24.9588412|67.1051000|Adil Shah Coaches Workshop||||station|bus_station||||
+node|12297044432|24.9580709|67.1041275|Karachi Gwadar Bus Terminal||||station|bus_station||||
+node|12297047483|24.9574223|67.1031471|SAIFULLHA BANGASH COCHES SERVICE||||station|bus_station||||
+node|12297050607|24.9578758|67.1040666|Ahmed Market Gwadar Bus Terminal||||station|bus_station||||
+node|12297053064|24.9563597|67.1014931|Kaleem Transport||||station|bus_station||||
+node|12297090722|24.9564612|67.1020048|Manthar Transport Co.||||station|bus_station||||
+node|12297095590|24.9563038|67.1017372|Pak Masood Bus Stop (Karachi To Tank)||||station|bus_station||||
+node|12297108968|24.9568333|67.1025057|Ziauddin Coaches||||station|bus_station||||
+node|12297113228|24.9575415|67.1036353|M&M Movers||||station|bus_station||||
+node|12297113317|24.9565330|67.1021167|"(وڑائچ طیارہ، اڈہ نمبر 01) - WARAICH TAYYARA, Adda No 01"||||station|bus_station||||
+node|12572007262|25.0239431|66.8887364|Sindh Stop|||bus_stop|platform|||||
+node|13245433494|24.9006153|67.1164534|Askari IV Bus Stop|||bus_stop|platform|||||
+node|13299615880|24.8507494|67.2117680|لانڈھی|لانڈھی|Landhi||stop_position||stop||LND|
+node|13299615881|24.8861857|67.1260106|ڈرگ روڈ|ڈرگ روڈ|Drigh Road||stop_position||stop||DID|
+node|13299615882|24.8435327|67.0414606|کراچی چھاؤنی|کراچی چھاؤنی|Karachi Cantonment||stop_position||stop||KC|
+node|13299615883|24.8481843|67.0071288|کراچی شہر|کراچی شہر|Karachi City||stop_position||stop||KYC|
+node|13306443776|24.8438300|67.2694563|جمعھ حماہتی|جمعھ حماہتی|Jummah Goth||station||station||JMTH|
+node|13306443777|24.8773046|67.1902424|ملیر|ملیر|Malir||station||station||MXB|
+node|13368860506|24.8454207|67.4283628|گڈار|گڈار|Gaddar||station||station||GDR|
+node|13368860507|24.8448251|67.3671636|بادل نالا|بادل نالا|Badal Nala||station||station||BDNL|
+node|13996264087|24.9123856|67.1037238|Raza Square Bus stop|||bus_stop|platform|||||
+node|14185206054|24.8439895|67.0411280|Karachi Cantonment Railway Station||||station||station|||
+node|14185206062|24.8437456|67.0388998|Kainat Travels Cantt Station Terminal||||station|bus_station||||
+node|14226275109|24.8175289|66.9750115|||||stop_position|||||
+node|14226275121|24.8203578|66.9649215|||||stop_position|||||
+node|14226275139|24.8257638|66.9611819|||||stop_position|||||
+node|14226275892|24.8042467|66.9705444|||||stop_position|||||
+way|682307433|24.8607897|67.0014177|Thatta Bus Stand||||station|bus_station||||
+way|699050732|24.8435487|67.0198021|Gul e Ishtiaq Coach||||station|bus_station||||
+way|756396425|24.8766950|67.0168077|Halari Bus||||station|bus_station||||
+way|1041636152|24.9673434|67.1107693|DAEWOO MAIN BUS TERMINAL||||station|bus_station||DAEWOO||
+way|1424945743|24.9286989|67.0253957|"ORANGE LINE BUS STATATION, ABDULLAH COLLEGE"||||station|bus_station||||
+way|1425724778|24.8552685|67.2294435|Long Route Bus Terminal||||station|bus_station||||

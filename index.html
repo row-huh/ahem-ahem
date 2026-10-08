@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#0b5d4b">
+  <title>Karachi Bus Guide</title>
+  <link rel="stylesheet" href="vendor/leaflet/leaflet.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div id="app">
+    <header class="bar">
+      <div class="brand">
+        <strong id="title"></strong>
+        <span id="tagline"></span>
+      </div>
+      <button id="lang" class="ghost" type="button"></button>
+    </header>
+
+    <div id="map-wrap">
+      <div id="map"></div>
+      <button id="map-size" class="map-btn" type="button"></button>
+    </div>
+
+    <main id="panel">
+      <section id="trip">
+        <ol id="points"></ol>
+        <button id="add-stop" class="link" type="button"></button>
+        <p id="hint" class="hint"></p>
+      </section>
+      <section id="results" aria-live="polite"></section>
+      <details id="routes">
+        <summary id="routes-title"></summary>
+        <ul id="route-list"></ul>
+      </details>
+      <footer id="notes"></footer>
+    </main>
+  </div>
+
+  <script src="vendor/leaflet/leaflet.js"></script>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
