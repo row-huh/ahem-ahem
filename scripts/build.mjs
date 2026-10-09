@@ -245,7 +245,7 @@ async function drawLines(stops) {
     const dist = segs.map((seg) => Math.round(lineLength(seg)));
     const total = dist.reduce((a, b) => a + b, 0) / 1000;
     if (line.km && Math.abs(total - line.km) / line.km > 0.2) flags.push(`${line.id}: drawn length ${total.toFixed(1)} km, SMTA says ${line.km} km`);
-    return { id: line.id, service: line.service, pink: !!line.pink, color: line.color, name: line.name, stops: line.stops, segs, dist };
+    return { id: line.id, listedAs: line.listedAs, service: line.service, pink: !!line.pink, color: line.color, name: line.name, stops: line.stops, segs, dist };
   });
   return { lines: out, flags };
 }

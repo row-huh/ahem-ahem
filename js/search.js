@@ -29,16 +29,21 @@ export function createSearch(network, places) {
   }
 
   async function searchRemote(query, signal) {
-    const url = `https://photon.komoot.io/api/?q=${encodeURIComponent(query)}&limit=5&lang=en&lat=24.88&lon=67.06&bbox=${KARACHI.west},${KARACHI.south},${KARACHI.east},${KARACHI.north}`;
-    const res = await fetch(url, { signal });
+    const url = `https://photon.komoot.io/api/?q=${encodeURIComponent(query.slice(0, 100))}&limit=5&lang=en&lat=24.88&lon=67.06&bbox=${KARACHI.west},${KARACHI.south},${KARACHI.east},${KARACHI.north}`;
+    const res = await fetch(url, { signal, credentials: 'omit', referrerPolicy: 'no-referrer' });
     if (!res.ok) return [];
     const data = await res.json();
-    return data.features.map((f) => {
-      const p = f.properties;
-      const detail = [p.street, p.district || p.locality, p.city].filter((x) => x && x !== p.name);
-      const name = p.name || detail.shift() || query;
-      return { kind: 'place', name: [name, name], detail: [...new Set(detail)].slice(0, 2).join(', '), lat: f.geometry.coordinates[1], lng: f.geometry.coordinates[0] };
-    });
+    // Photon is somebody else's server: keep only well-formed results inside Karachi.
+    const features = Array.isArray(data?.features) ? data.features.slice(0, 5) : [];
+    return features.map((f) => {
+      const p = f?.properties || {};
+      const [lng, lat] = Array.isArray(f?.geometry?.coordinates) ? f.geometry.coordinates : [];
+      if (typeof lat !== 'number' || typeof lng !== 'number' || !inKarachi({ lat, lng })) return null;
+      const clean = (x) => (typeof x === 'string' ? x.trim().slice(0, 80) : '');
+      const detail = [p.street, p.district || p.locality, p.city].map(clean).filter((x) => x && x !== p.name);
+      const name = clean(p.name) || detail.shift() || query.slice(0, 80);
+      return { kind: 'place', name: [name, name], detail: [...new Set(detail)].slice(0, 2).join(', '), lat, lng };
+    }).filter(Boolean);
   }
 
   return { searchLocal, searchRemote };

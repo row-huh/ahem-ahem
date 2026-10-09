@@ -6,6 +6,8 @@
 // Where SMTA's list is not in road order (R8 beyond Sher Shah, R14 around Maymar) the stops
 // are ordered along the road instead; both need checking by someone who rides them.
 
+import { PRIVATE_LINES } from './private-lines.mjs';
+
 const FAISAL_EAST = ['malir_halt', 'colony_gate', 'natha_khan', 'drigh_road', 'paf_base_faisal', 'karsaz'];
 const FAISAL_MID = ['paf_museum', 'awami_markaz', 'baloch_colony', 'fine_house', 'lal_kothi', 'nursery'];
 const FAISAL_WEST = ['ftc', 'regent_plaza', 'metropole'];
@@ -17,7 +19,7 @@ const ITTEHAD = ['clock_tower_dha', 'street_26', 'masjid_ayesha', 'rahat_park', 
 
 // km: route length published by SMTA, used only to sanity-check the drawn line.
 // service: 'peoples' (red), 'pink' also runs women-only Pink Buses, 'ev', 'brt', 'dd'
-export const LINES = [
+const SMTA_LINES = [
   { id: 'R1', km: 31, service: 'peoples', pink: true, color: '#f58220', name: ['Khokhrapar – Dockyard', 'کھوکھراپار – ڈاکیارڈ'],
     stops: ['khokhrapar', 'saudabad', 'rcd_ground', 'kala_board', ...FAISAL_EAST, ...FAISAL_MID, ...FAISAL_WEST, ...CBD, 'ici_bridge', 'dockyard'] },
   { id: 'R2', km: 31, service: 'peoples', pink: true, color: '#b5124f', name: ['Power House – Indus Hospital', 'پاور ہاؤس – انڈس ہسپتال'],
@@ -58,10 +60,14 @@ export const LINES = [
     stops: ['orangi_nadra', 'orangi_police', 'abdullah_college', 'board_office'] },
 ];
 
+// 'private': privately run buses and coaches, see private-lines.mjs
+export const LINES = [...SMTA_LINES, ...PRIVATE_LINES];
+
 // Fares as last reported in the press. They are shown as "about", never as a promise.
 export const FARES = {
   peoples: { type: 'distance', bands: [[15, 80], [Infinity, 120]], asOf: '2025' },
   dd: { type: 'distance', bands: [[15, 80], [Infinity, 120]], asOf: '2025' },
   ev: { type: 'unknown' },
   brt: { type: 'unknown' },
+  private: { type: 'unknown' },
 };

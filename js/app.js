@@ -44,10 +44,9 @@ const map = L.map('map', { zoomControl: false, attributionControl: true }).setVi
 L.control.zoom({ position: 'bottomright' }).addTo(map);
 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
   maxZoom: 19,
-  attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+  attribution: '&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener noreferrer">OpenStreetMap</a>',
 }).addTo(map);
 
-const TRIP_BLUE = '#1a73e8';
 const NETWORK_GREY = '#7b8794';
 const networkLayer = L.layerGroup().addTo(map);
 const stopLayer = L.layerGroup();
@@ -276,8 +275,9 @@ function optionCard(o, legIndex, optIndex) {
 }
 
 function steps(o) {
+  let rideNo = 0;
   const items = o.legs.map((leg, n) => {
-    if (leg.type === 'bus') return busStep(leg);
+    if (leg.type === 'bus') return busStep(leg, ++rideNo);
     const d = dist(leg.metres);
     if (leg.type === 'gap') {
       const text = leg.toStop ? t('gapToStop', { stop: stopName(leg.toStop), d }) : t('gapToEnd', { stop: stopName(leg.fromStop), d });
@@ -287,10 +287,12 @@ function steps(o) {
     return h('li', { class: 'step walk' }, h('span', { class: 'dot' }, '🚶'), h('div', {}, text));
   });
   const pink = [...new Set(o.legs.filter((l) => l.type === 'bus').flatMap((l) => l.lines).filter((id) => lineById[id].pink))];
-  return h('div', { class: 'opt-body' }, h('ol', { class: 'steps' }, items), pink.length > 0 && h('p', { class: 'note' }, t('pinkNote', { lines: pink.join(', ') })));
+  const priv = [...new Set(o.legs.filter((l) => l.type === 'bus').flatMap((l) => l.lines).filter((id) => lineById[id].service === 'private'))];
+  return h('div', { class: 'opt-body' }, h('ol', { class: 'steps' }, items), pink.length > 0 && h('p', { class: 'note' }, t('pinkNote', { lines: pink.join(', ') })),
+    priv.length > 0 && h('p', { class: 'note note-private' }, t('privateNote', { lines: priv.join(', ') })));
 }
 
-function busStep(leg) {
+function busStep(leg, rideNo) {
   const line = lineById[leg.line];
   const approx = [leg.from, leg.to].some((id) => network.stops[id].conf === 'approx');
   const fare = leg.fare === null ? t('fareUnknown') : t('aboutRs', { n: leg.fare }) + (leg.fareOn ? ` (${leg.fareOn.join(', ')})` : '');
@@ -298,7 +300,7 @@ function busStep(leg) {
   return h('li', { class: 'step bus', style: { '--route': line.color } },
     h('span', { class: 'dot' }, '🚌'),
     h('div', {},
-      h('div', { class: 'chips' }, leg.lines.map(chip), leg.lines.length > 1 && h('small', {}, t('anyOf'))),
+      h('div', { class: 'chips' }, h('b', { class: 'ride-no', style: { background: line.color, color: readableOn(line.color) } }, String(rideNo)), leg.lines.map(chip), leg.lines.length > 1 && h('small', {}, t('anyOf'))),
       h('div', { class: 'services' }, [...new Set(leg.lines.map((id) => t(`service_${lineById[id].service}`)))].join(' · ')),
       h('div', { class: 'stop-from' }, t('board', { stop: stopName(leg.from) })),
       middle.length > 0 && h('details', {}, h('summary', {}, t('rideInfo', { n: leg.stopIds.length - 1, d: dist(leg.metres) })), h('ul', { class: 'via' }, middle.map((id) => h('li', {}, stopName(id))))),
@@ -311,6 +313,18 @@ function busStep(leg) {
 }
 
 // ---------- drawing the chosen trip ----------
+// Leaflet treats a string as HTML. Names go in as text so that nothing in the data can run as code.
+const asText = (s) => h('span', {}, s);
+function midpoint(path) {
+  const lens = path.slice(1).map((p, i) => map.distance(path[i], p));
+  let half = lens.reduce((a, b) => a + b, 0) / 2;
+  const i = lens.findIndex((d) => (half -= d) <= 0);
+  return path[Math.max(i, 0)];
+}
+function stopBadge(s, color, label) {
+  L.circleMarker([s.lat, s.lng], { radius: 8, color, weight: 4, fillColor: '#fff', fillOpacity: 1 })
+    .bindTooltip(asText(label), { permanent: true, direction: 'auto', offset: [10, 0], className: 'map-stop-label' }).addTo(tripLayer);
+}
 function drawTrip(refit) {
   tripLayer.clearLayers();
   pointLayer.clearLayers();
@@ -318,19 +332,36 @@ function drawTrip(refit) {
   state.results.forEach((res, i) => {
     const o = res?.options[state.chosen[i]];
     if (!o) return;
+    const rides = [];
     for (const leg of o.legs) {
       bounds.push(...leg.path);
       if (leg.type === 'bus') {
-        L.polyline(leg.path, { color: '#fff', weight: 10, opacity: 0.95, interactive: false }).addTo(tripLayer);
-        L.polyline(leg.path, { color: TRIP_BLUE, weight: 6, interactive: false }).addTo(tripLayer);
-        for (const id of [leg.from, leg.to]) {
+        const color = lineById[leg.line].color;
+        L.polyline(leg.path, { color: '#fff', weight: 11, opacity: 0.95, interactive: false }).addTo(tripLayer);
+        L.polyline(leg.path, { color, weight: 7, interactive: false }).addTo(tripLayer);
+        for (const id of leg.stopIds.slice(1, -1)) {
           const s = network.stops[id];
-          L.circleMarker([s.lat, s.lng], { radius: 7, color: TRIP_BLUE, weight: 3, fillColor: '#fff', fillOpacity: 1 }).bindTooltip(pick(s.name)).addTo(tripLayer);
+          L.circleMarker([s.lat, s.lng], { radius: 3.5, color, weight: 2, fillColor: '#fff', fillOpacity: 1 }).bindTooltip(asText(pick(s.name))).addTo(tripLayer);
         }
+        rides.push(leg);
       } else {
-        L.polyline(leg.path, { color: leg.type === 'gap' ? '#c62828' : TRIP_BLUE, weight: 4, dashArray: '2 9', lineCap: 'round', interactive: false }).addTo(tripLayer);
+        L.polyline(leg.path, { color: leg.type === 'gap' ? '#c62828' : '#374151', weight: 4, dashArray: '2 9', lineCap: 'round', interactive: false }).addTo(tripLayer);
       }
     }
+    // Each ride gets its number and bus name on the line, in the colour used in the list,
+    // and the places where you board, change and get off are spelled out on the map.
+    rides.forEach((leg, n) => {
+      const line = lineById[leg.line];
+      const names = leg.lines.length > 2 ? `${leg.lines[0]} +${leg.lines.length - 1}` : leg.lines.join(' / ');
+      const tag = h('span', { class: 'map-ride', style: { background: line.color, color: readableOn(line.color) } }, h('b', {}, String(n + 1)), names);
+      L.marker(midpoint(leg.path), { icon: L.divIcon({ className: 'map-ride-wrap', html: tag, iconSize: [0, 0] }), interactive: false, zIndexOffset: 400 }).addTo(tripLayer);
+      const prev = rides[n - 1];
+      const from = network.stops[leg.from];
+      const what = prev ? t('mapChange', { line: names }) : t('mapBoard', { line: names });
+      stopBadge(from, line.color, `${what} · ${pick(from.name)}`);
+      if (prev && prev.to !== leg.from) stopBadge(network.stops[prev.to], lineById[prev.line].color, `${t('mapOff')} · ${stopName(prev.to)}`);
+      if (n === rides.length - 1) stopBadge(network.stops[leg.to], line.color, `${t('mapOff')} · ${stopName(leg.to)}`);
+    });
   });
   state.points.forEach((p, i) => {
     if (!p.loc) return;
@@ -342,13 +373,13 @@ function drawTrip(refit) {
   });
   state.tripShown = bounds.length > 1 && state.results.some(Boolean);
   styleNetwork();
-  if (refit && bounds.length > 1) map.fitBounds(bounds, { padding: [36, 36], maxZoom: 15 });
+  if (refit && bounds.length > 1) map.fitBounds(bounds, { padding: [Math.min(110, map.getSize().x / 4), 36], maxZoom: 15 });
   else if (refit && bounds.length === 1) map.setView(bounds[0], Math.max(map.getZoom(), 14));
 }
 
 // ---------- all routes ----------
-// While a trip is on the map the rest of the network goes grey, so the blue trip is the
-// only colour on it. A route picked from the list keeps its own colour.
+// While a trip is on the map the rest of the network goes grey, so the trip's own buses are
+// the only colour on it. A route picked from the list keeps its own colour.
 function styleNetwork() {
   for (const [lineId, path] of Object.entries(linePaths)) {
     const on = lineId === state.routeFocus;

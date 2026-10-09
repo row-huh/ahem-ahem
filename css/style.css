@@ -87,6 +87,7 @@ html[dir='rtl'] .arrow { transform: scaleX(-1); }
 .via { margin: 2px 0 4px; padding-inline-start: 18px; color: var(--muted); font-size: 0.86rem; }
 .approx { color: var(--muted); }
 .note { margin: 12px 0 0; font-size: 0.85rem; color: #a3195b; }
+.note-private { color: var(--muted); }
 .empty { background: var(--card); border: 1px dashed var(--line); border-radius: 12px; padding: 12px 14px; margin: 0 0 8px; color: var(--muted); }
 
 /* all routes */
@@ -114,3 +115,16 @@ html[dir='rtl'] .arrow { transform: scaleX(-1); }
   #map-wrap { grid-column: 2; grid-row: 1 / span 2; }
   .map-btn { display: none; }
 }
+
+/* chosen trip on the map */
+.map-ride-wrap { overflow: visible; }
+.map-ride { position: absolute; transform: translate(-50%, -50%); display: inline-flex; align-items: center; gap: 5px; padding: 2px 8px 2px 3px; border: 2px solid #fff; border-radius: 999px; font: 700 0.8rem system-ui, sans-serif; white-space: nowrap; box-shadow: 0 1px 5px rgba(0, 0, 0, 0.45); }
+.map-ride b, .ride-no { display: inline-grid; place-items: center; width: 18px; height: 18px; border-radius: 50%; background: #fff; color: #1f2933; font: 700 0.72rem system-ui, sans-serif; }
+.ride-no { width: 22px; height: 22px; }
+.map-stop-label { font: 600 0.78rem system-ui, sans-serif; color: var(--ink); border: 0; border-radius: 6px; padding: 2px 7px; box-shadow: 0 1px 5px rgba(0, 0, 0, 0.35); }
+html[lang='ur'] .map-stop-label { font-family: inherit; line-height: 1.7; }
+@media (max-width: 899px) {
+  .map-stop-label { white-space: normal; width: max-content; max-width: 42vw; line-height: 1.25; }
+}
+/* route codes like "4-M" must not be flipped to "M-4" inside Urdu text */
+.chip, .map-ride { direction: ltr; unicode-bidi: isolate; }
