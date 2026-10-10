@@ -6,6 +6,7 @@ import { request } from 'node:http';
 
 const PORT = 5391;
 let server;
+
 // Raw request so that paths like "/../x" reach the server exactly as written.
 const get = (path, method = 'GET') => new Promise((resolve, reject) => {
   const req = request({ host: '127.0.0.1', port: PORT, path, method }, (res) => {
